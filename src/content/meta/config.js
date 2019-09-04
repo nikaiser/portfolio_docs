@@ -1,21 +1,21 @@
 const base = {
-  name: 'Gatsby Starter Kit',
-  url: 'https://github.com/greglobinski/gatsby-starter-kit'
+  name: 'Nikhil B Lal',
+  url: 'https://nikhilblal.com'
 };
 
 const config = {
   /* meta tags */
-  siteTitle: `${base.name} - a series of GatsbyJS starters`,
+  siteTitle: `${base.name}`,
   siteTitlePostfix: ` - ${base.name}`,
   siteDescription: `${
     base.name
-  } is a series starters: Minimal, Equipped, Themed, Website, Blog.`,
+  }  engineer, innovator, designer, outdoorsman.`,
   siteImage: 'preview.jpg',
   siteLanguage: 'en',
 
   /* site header */
   headerTitle: `${base.name}`,
-  headerSubTitle: 'a series of starters for GatsbyJS',
+//  headerSubTitle: 'a series of starters for GatsbyJS',
 
   /* url */
   siteUrl: base.url
