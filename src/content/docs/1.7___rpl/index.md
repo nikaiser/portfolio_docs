@@ -23,4 +23,5 @@ During my tenure at the lab, from founding through the first year of operation, 
 (Click through to Youtube)
 
 [![Liquid Metal Pump](http://img.youtube.com/vi/baFAR68NuK0/0.jpg)](http://www.youtube.com/watch?v=baFAR68NuK0 "UP printers going full steam after days of debug")
+
 *UP printers going full steam after days of debug*
