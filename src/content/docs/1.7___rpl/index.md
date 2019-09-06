@@ -2,6 +2,10 @@
 title: Rapid Prototyping Lab (RPL)
 categories: ['cornell']
 ---
+#### Teammates:
+Georgia Crowther, Paul Chang, Oliver Kliewe
+#### Professor:
+Robert Shepherd
 
 ## Summary
 

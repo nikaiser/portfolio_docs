@@ -2,6 +2,8 @@
 title: Morphable Airfoil
 categories: ['cornell']
 ---
+#### Professor:
+Robert Shepherd
 
 ## Summary
 

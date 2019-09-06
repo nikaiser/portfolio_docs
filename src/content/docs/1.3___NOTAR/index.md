@@ -2,6 +2,11 @@
 title: Design of a NOTAR helicopter tail
 categories: ['cornell']
 ---
+#### Teammates:
+Ben Sands, Wenyu Zhou
+
+#### Professor:
+Olivier Desjardins
 
 ## Summary
 

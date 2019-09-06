@@ -2,6 +2,10 @@
 title: Windmill Powered Water Pump, "Project Manly"
 categories: ['cornell']
 ---
+#### Teammates:
+Maegan Porpora, Garrick Lau
+#### Professor:
+Al George
 
 ## Summary
 

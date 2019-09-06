@@ -2,6 +2,11 @@
 title: Flopper the Frog
 categories: ['cornell']
 ---
+#### Teammates:
+Alex Krolick, Sam Daly
+
+#### Professor:
+Robert Shepherd
 
 ## Summary
 
