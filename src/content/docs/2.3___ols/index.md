@@ -1,5 +1,5 @@
 ---
-title: Sensor development for vehicle health monitoring in autonomous cars
+title: Sensor Development for Vehicle Health Monitoring in Autonomous Cars
 categories: ['sensata']
 ---
 #### Title
