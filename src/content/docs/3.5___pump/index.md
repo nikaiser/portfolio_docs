@@ -21,6 +21,6 @@ The cheapest peristaltic pump available on Amazon, needed modification as was ve
 *Fig. 3: Rev 7 pump render*
 
 ## Videos
-[![Peristaltic Pump](http://img.youtube.com/vi/JwgBJmqJitc/1.jpg)](http://www.youtube.com/watch?v=JwgBJmqJitc "3D Printed Pump Housing")
+[![Peristaltic Pump](http://img.youtube.com/vi/JwgBJmqJitc/0.jpg)](http://www.youtube.com/watch?v=JwgBJmqJitc "3D Printed Pump Housing")
 
 *3D printed Rev 7 pump housing running and pumping at needed low volumes of water*
