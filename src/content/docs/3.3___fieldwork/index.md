@@ -9,13 +9,13 @@ Conducted a number of field excursions in New Bedford, MA, Somerville, MA, and C
 
 ## Photos
 ![](squad.jpeg)
-*Fig. 1: Deployment squad, with a Beta box. Pictured: me, Project Manager Dr. Noriko Endo, and Intern Matt Murphy. Field uniforms also designed by me, critical to maintain cleanliness during sewer sampling but not appear to be frightening it standard hazmat gear*
+*Fig. 1: Deployment squad, with a Beta box. Pictured: me, Project Manager Dr. Noriko Endo, and Intern Matt Murphy. Field uniforms also designed by me, critical to maintain cleanliness during sewer sampling but avoid public panic. Standard hazmat gear and vinyl coverings would have been ideal from a safety standpoint but subject to criticism in the public eye.*
 
 ![](IMG_2939.JPEG)
-*Fig. 2: New Bedford deployment shot.*
+*Fig. 2: Typical deployment site.*
 
 ![](IMG_2264.JPEG)
-*Fig. 3: Rev 3, different view. Computer stand built by our intern, used for CAD and shared McMaster order.*
+*Fig. 3: New Bedford deployment shot.*
 
 ![](IMG_2092.JPEG)
 *Fig. 4: Manhole at 444 Somerville Ave, in front of the office, with box deployed and functioning.*
