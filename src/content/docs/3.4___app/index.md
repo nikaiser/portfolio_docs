@@ -1,22 +1,21 @@
 ---
-title: Sensor Development for Vehicle Health Monitoring in Autonomous Cars
-categories: ['sensata']
+title: App Development
+categories: ['biobot']
 ---
-#### Title
-Mechanical Design Engineer, Advanced Technologies
-Lead Process Design Engineer, Advanced Technologies
+#### Role
+Supervisor & Manager
 
 ## Summary
 
-During my last year at Sensata I worked on new technology development to monitor a few key aspects of vehicle health in autonomous vehicles to match the market growth needed for the electric/autonomous vehicle disruption. My responsibilities primarily surrounded package development, sensor design and manufacture for these products, and ensuring that the unique challenges posed by the technology can be solved in full scale production.
+Determined need for field deployment as the most expeditious, reliable, and easiest way of tracking and deploying devices. Recruited Jack Reuter to develop app. Enabled design meetings, and lent vision towards app development with direct report programmer.
 
-## Patent
-Filed, under NDA.
-
-## Skills
-
-Solidworks, coating development and process control, prototype sample builds on short timelines, use of SLA components in high stress environments, short turn machined samples, prototype assembly process, endcapping with silane deposition, technical screen-printing
 
 ## Photos
-![](autonomy.png)
-*Fig. 1: Visualization from Yole Development indicating need and trends*
+![](Screenshot_20190508-145507_Biobot.jpg)
+*Fig. 1: Screenshot of welcome screen*
+
+![](Screenshot_20190508-145528_Biobot.jpg)
+*Fig. 2: Screenshot of site selection screen*
+
+![](Screenshot_20190508-145606_Biobot.jpg)
+*Fig. 3: Screenshot of log screen*

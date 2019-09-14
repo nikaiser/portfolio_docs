@@ -3,6 +3,9 @@ title: Biobot Lab at Greentown Labs
 categories: ['biobot']
 ---
 
+## Roles
+Builder
+
 ## Summary
 
 Starting at Biobot the lab was a few stainless benches designed purely for box refreshment. Without any tools to build, I took responsibility of building out a prototyping lab, reminiscent of a makerspace.
@@ -18,4 +21,4 @@ Starting at Biobot the lab was a few stainless benches designed purely for box r
 *Fig. 3: Rev 3, different view. Computer stand built by our intern, used for CAD and shared McMaster order.*
 
 ![](IMG_2613.JPEG)
-*Fig. 4: Testing stand for bulk testing of 8 boxes at a time. Used to conduct longevity and lifetime testing. (intern in foreground)*
+*Fig. 4: Testing stand for bulk testing of 8 boxes at a time. Used to conduct longevity and lifetime testing. (intern in foreground + electrical engineer in background)*
