@@ -62,7 +62,7 @@ export default IndexPage;
 
 export const query = graphql`
   query {
-    logo: file(relativePath: { regex: "/logo_nik.png/" }) {
+    logo: file(relativePath: { regex: "/logo_nik2.png/" }) {
       childImageSharp {
         fluid(maxWidth: 1000) {
           ...GatsbyImageSharpFluid_withWebp_tracedSVG
