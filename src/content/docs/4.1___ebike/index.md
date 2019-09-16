@@ -1,0 +1,33 @@
+---
+title: E-Bike
+categories: ['projects']
+---
+## Summary
+
+As any good MechE would do, I built myself an ebike. But instead of sticking with the classic mainstays of cheap, unused bike with an assortment of electrical fixtures. I pursued a stealth build that required a bit of custom fabrication to get just right. Bike uses a small (16s1p) 60V nominal 3Ah LiPo battery pack, a custom controller from Edward of Lyen Controllers, and a Cycle Analyst V2 computer. Peak power output of 1.5kW through a hub designed for 350w means that power output is current controlled, the design was unconventionally optimized for high voltage but low current draw due to this limitation. The system rides very well but switching to a direct drive hub as the system is capable of much, much better performance at the expense of some aesthetics.
+
+*Specs:*
+Max Speed: 26MPh
+Distance: 5mi
+Acceleration: ??
+
+## Photos
+![](IMG_2064.JPEG)
+*Fig. 1: Custom wheel built to house the smallest hub motor available on the market, rated for 350w.*
+
+![](IMG_2065.JPEG)
+*Fig. 2: Completed wheel on truing stand in the Skul space in Artisan's Asylum, double cross spoke pattern*
+
+![](IMG_2109.JPEG)
+*Fig. 3: Machining disc brake caliper bracket as the hub was significantly wider than the original hub. Milling down bolt attach points enabled me to move the caliper 0.15" outwards from the center plane.*
+
+![](IMG_2110.JPEG)
+*Fig. 3: Custom spacers were turned on the lathe to get proper chain alignment on a 7-speed freewheel hub that I converted to a single speed freewheel.*
+
+![](bike.jpeg)
+*Fig. 4: Completed bicycle after test ride*
+
+## Videos
+[![E-Bike](video.jpeg)](http://www.youtube.com/watch?v=fR6uySCIAOo "E-Bike First Flight")
+
+*Demo of e-bike near Greentown Labs, super fun ride!*

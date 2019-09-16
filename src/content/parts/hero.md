@@ -2,6 +2,6 @@
 name: hero
 ---
 
-Engineer, innovator, outdoorsman.
+Engineer, Innovator, Outdoorsman
 
 [more](./content)

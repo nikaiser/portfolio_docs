@@ -7,7 +7,7 @@ Designer
 
 ## Summary
 
-As an alternative to the costly hardware sampler, a passive sampler was also developed based on a similar chemical sampling premise. The sampler in question was called a POCIS. Different stainless steel mesh devices were purchased from Amazon and we mounted purchased POCIS samplers within these mesh devices.
+As an alternative to the costly hardware sampler, Dr. Endo developed a passive sampler concept based on a similar chemical sampling premise. To execute on this vision, I designed and built the Polar Organic Chemical Sampler. To simplify the design, and enable cheap and easy construction - I sourced off the shelf stainless steel housings from other industries and applied them in a creative and mildly custom design.
 
 
 ## Photos

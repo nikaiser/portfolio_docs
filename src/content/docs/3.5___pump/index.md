@@ -7,7 +7,7 @@ Designer
 
 ## Summary
 
-The cheapest peristaltic pump available on Amazon, needed modification as was very low quality, challenging to change out tubing for every refreshment, and was generally speaking problematic and prone to failure. Additionally, due to the low volume requirement of the device, the housing for the rollers was tweaked to reduce flow.
+Prior to my arrival, the cheapest peristaltic pump available was sourced; in an attempt to make it usable, I spent time redesigning the pump head. The original pump head design was problematic and prone to failure and the tubing was extremely tedious and challenging to remove. To solve a lot of these problems, I redesigned the pump head and 3d printed out new revisions. The pump head was optimized to reduce flow, and improve ease at which the tubing can be changed. This pump design never made it into the final product design as it was too unreliable for production use.
 
 
 ## Photos

@@ -7,7 +7,7 @@ Advisor
 
 ## Summary
 
-During field work it was determined that the existing method practiced to lift manholes was flawed and very dangerous. Encouraged the intern to pursue a solution to this problem as his capstone project for the internship. Over the course of his co-op I directed him to build and develop a manhole lifter that would be easy for any member of the team to use, and it went through numerous revisions. Final revision completed all functional requirements.
+During field work it was determined that the existing method practiced to lift manholes was flawed and very dangerous. I encouraged our intern to pursue a solution to this problem as his capstone project for his internship. Over the course of his co-op I directed him to build and develop a manhole lifter that would be easy for any member of the team to use, and it went through numerous revisions. Final revision completed all functional requirements.
 
 
 ## Photos

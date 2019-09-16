@@ -1,6 +1,6 @@
 const base = {
-  name: 'Nikhil B Lal',
-  url: 'https://nikhilblal.com'
+  name: 'Nik Lal',
+  url: 'https://niklal.me'
 };
 
 const config = {
@@ -9,7 +9,7 @@ const config = {
   siteTitlePostfix: ` - ${base.name}`,
   siteDescription: `${
     base.name
-  }  engineer, innovator, designer, outdoorsman.`,
+  }  engineer, innovator, designer, outdoorsman`,
   siteImage: 'preview.jpg',
   siteLanguage: 'en',
 
