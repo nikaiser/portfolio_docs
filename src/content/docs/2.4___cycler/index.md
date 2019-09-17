@@ -14,4 +14,4 @@ As an expansion, I was able to run mechanical resonant frequency analysis using 
 *Fig. 1: Full system in use, visuals of the oscilloscopes, amplifier, electromechanical-fluidic system, and the key innovation of a fluid accumulator that would bleed small amounts of fluid into the system via a repurposed snubber as fluid leaked past the dynamic piston seal.*
 
 ![](closeup.jpeg)
-*Fig. 2: Close-up of pressure cycler interface, a 120um displacement piezo-resistive stack was used to mechanically actuate a piston. The piston would repeatedly compress a small volume of fluid which the pressure sensor under test and the Kistler reference pressure would simultaneously read"
+*Fig. 2: Close-up of pressure cycler interface, a 120um displacement piezo-resistive stack was used to mechanically actuate a piston. The piston would repeatedly compress a small volume of fluid which the pressure sensor under test and the Kistler reference pressure would simultaneously read"*
