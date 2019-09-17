@@ -20,8 +20,3 @@ Following this adventure, I made it into a hand held high voltage generator.
 ## Photos
 ![](generator.jpeg)
 *Fig. 1: After finding out purpose, here is a picture from the AliExpress site, must have been sent erroneously by a supplier there.*
-
-## Videos
-[![E-Bike](video.jpeg)](http://www.youtube.com/watch?v=fR6uySCIAOo "E-Bike First Flight")
-
-*Demo of e-bike near Greentown Labs, super fun ride!*
