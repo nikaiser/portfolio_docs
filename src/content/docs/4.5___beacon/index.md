@@ -1,23 +1,16 @@
 ---
-title: The Interesting Company, Intumister
+title: Beacon
 categories: ['projects']
 ---
 ## Summary
 
-A scorching hot day in Providence, RI, the Fox Point Booters had a game to play! Talking about it ahead of time with some of the other members we discussed bringing water guns to the field to hose each other off. Instead I decided to make a misting cannon out of two off the shelf components, a leaf blower and a chemical sprayer, and then deploy it on 3rd base. The Intumister is a portmanteau of "Intumescent" + "Mister". Some might say it works as an evaporative cooler, but not in the traditional sense as the moisture does not fully vaporize at the outlet and instead is deposited as artificial sweat. The artificial sweat is then fully evaporated on your skin for conductive cooling, making it more effective then just blowing cool air which would be purely forced convective cooling.
+Growing up I moved around a lot, and found it impossible to stay in touch. Facebook, and Instagram were huge when they came out as they served as a constant reminder. So the challenges of staying in touch have always been on my mind, and recently I came up with a potential solution that might solve that problem in a slightly unconventional way.
+
+Beacon was an app I conceived of to bring people together. The app is simple, add a few contacts, people you enjoy talking to from all walks of life, then turn on your Beacon. If another individual adds you to their contact list, and they also have you on their contact list - the app auto connects you. An example of a use case would be driving in a car, you're listening to the radio, but you have your Beacon on, which means you get a call from your 11th grade teacher who you wrote you that recommendation to get you into college. You talk and catch up, after the call you can rate the caller, "do you want to speak with them sooner or later?". From that data we build an algorithm to refine your calling habits and enable more meaningful connections. [Jack Reuter](https://github.com/jackreuter) is the primary developer and I created the vision and design.
 
 ## Photos
-![](flamethrower.jpeg)
-*Fig. 1: The competition*
+![](IMG_4009.JPEG)
+*Fig. 1: Beacon alpha revision, welcome screen*
 
-![](water.jpeg)
-*Fig. 2: Ryobi Cordless Chemical Sprayer*
-
-![](blower.jpeg)
-*Fig. 3: Ryobi Cordless Leaf Blower*
-
-
-## Videos
-[![Intumister](http://img.youtube.com/vi/D8L9ttLUJa8/0.jpg)](http://www.youtube.com/watch?v=D8L9ttLUJa8)
-
-*Demonstration of Intumister, notice how Connor is both soaked and very cold!*
+![](IMG_4010.JPEG)
+*Fig. 2: Beacon alpha revision, contact screen*

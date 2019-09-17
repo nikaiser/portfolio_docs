@@ -45,7 +45,7 @@ const ContentPage = props => {
         <Menu items={menuItems} />
       </Header>
       <Article>
-        <Heading title="Table of Accomplishments" />
+        <Heading title="Table of Accomplishments (^Denotes Highlights)" />
         <List pages={pages} categoryList={categoryList} />
       </Article>
       <Footer links={footerLinksHTML} copyright={copyrightHTML} />

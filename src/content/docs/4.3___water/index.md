@@ -8,7 +8,7 @@ A scorching hot day in Providence, RI, the Fox Point Booters had a game to play!
 
 ## Photos
 ![](flamethrower.jpeg)
-*Fig. 1: The competition*
+*Fig. 1: The nemesis*
 
 ![](water.jpeg)
 *Fig. 2: Ryobi Cordless Chemical Sprayer*

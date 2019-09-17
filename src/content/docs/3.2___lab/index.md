@@ -1,5 +1,5 @@
 ---
-title: Biobot Lab at Greentown Labs
+title: ^Biobot Lab at Greentown Labs
 categories: ['biobot']
 ---
 
