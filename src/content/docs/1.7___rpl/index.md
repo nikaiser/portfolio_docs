@@ -18,7 +18,7 @@ During my tenure at the lab, from founding through the first year of operation, 
 
 ## Photos
 ![](IMG_0933.jpg)
-*Fig. 1: The least reliable printer in the lab*
+*Fig. 1: One of the few photos I have from the original lab. The lab itself was only about 200sq. ft. and was hidden away in a dark corner of the engineering campus.*
 
 ![](lab.jpg)
 *Fig. 2: The RPL today, 2019, the lab has come a long way since we first got it off the ground*
@@ -27,4 +27,5 @@ During my tenure at the lab, from founding through the first year of operation, 
 (Click through to Youtube)
 
 [![Liquid Metal Pump](http://img.youtube.com/vi/baFAR68NuK0/0.jpg)](http://www.youtube.com/watch?v=baFAR68NuK0 "UP printers going full steam after days of debug")
+
 *UP printers going full steam after days of debug*

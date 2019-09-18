@@ -17,4 +17,5 @@ Fundamentally, a dihedral, or upward, wing angle on a plane contributes to its s
 (Click through to Youtube)
 
 [![Morphable Airfoil](http://img.youtube.com/vi/WSTw8pgNREs/0.jpg)](http://www.youtube.com/watch?v=WSTw8pgNREs "Flexible wing skeleton actuation")
+
 *Wing support modeled after Fibonacci sequence*
