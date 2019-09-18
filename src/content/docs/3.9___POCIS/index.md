@@ -1,5 +1,5 @@
 ---
-title: Polar Organic Chemical Integrative Sampler
+title: Passive Sampler Development
 categories: ['biobot']
 ---
 #### Role
@@ -7,17 +7,17 @@ Designer
 
 ## Summary
 
-As an alternative to the costly hardware sampler, Dr. Endo developed a passive sampler concept based on a similar chemical sampling premise. To execute on this vision, I designed and built the Polar Organic Chemical Integrative Sampler. To simplify the design, and enable cheap and easy construction - I sourced off-the-shelf, stainless steel housings from other industries and applied them in a creative and mildly custom design.
+As an alternative to the costly hardware sampler, Dr. Endo developed a passive sampler concept based on a similar chemical sampling premise. To execute on this vision, I designed and built the device. To simplify the design, and enable cheap and easy construction - I sourced off-the-shelf, stainless steel housings from other industries and applied them in a creative and mildly custom design.
 
 
 ## Photos
 ![](IMG_3004.JPEG)
-*Fig. 1: Rev 1 POCIS, very difficult to manufacture as drilling into the soft but case hardened stainless steel was problematic due to the weak structure. Case was designated as a "beer hopper" for homebrew use.*
+*Fig. 1: Rev 1 passive sampler, very difficult to manufacture as drilling into the soft but case hardened stainless steel was problematic due to the weak structure. Case was designated as a "beer hopper" for homebrew use.*
 
 ![](IMG_3008b.jpeg)
-*Fig. 2: Rev 2 POCIS, much easier to manufacture with custom laser cut end caps on one side and added eyelets to the sidewall. Case was designated as "wood chip smoker" for barbeque use.*
+*Fig. 2: Rev 2 passive sampler, much easier to manufacture with custom laser cut end caps on one side and added eyelets to the sidewall. Case was designated as "wood chip smoker" for barbeque use.*
 
 ## Videos
-[![Deployment](http://img.youtube.com/vi/oLlYg-b9A_Q/0.jpg)](http://www.youtube.com/watch?v=oLlYg-b9A_Q "POCIS Install Cambridge")
+[![Deployment](http://img.youtube.com/vi/oLlYg-b9A_Q/0.jpg)](http://www.youtube.com/watch?v=oLlYg-b9A_Q "Passive Sampler Install Cambridge")
 
-*Team install of POCIS in Cambridge manhole*
+*Team install of in Cambridge manhole*
