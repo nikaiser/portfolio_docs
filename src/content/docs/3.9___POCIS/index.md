@@ -20,4 +20,4 @@ As an alternative to the costly hardware sampler, Dr. Endo developed a passive s
 ## Videos
 [![Deployment](http://img.youtube.com/vi/oLlYg-b9A_Q/0.jpg)](http://www.youtube.com/watch?v=oLlYg-b9A_Q "Passive Sampler Install Cambridge")
 
-*Team install of in Cambridge manhole*
+*Team install of sampler in Cambridge manhole*
