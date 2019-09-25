@@ -13,13 +13,16 @@ A consummate engineer, I have always enthusiastically pursued science and resear
 
 ### Background
 
-Born in Maryland, I followed my parents around the world as my mother served the US Department of State as a diplomat and my father an entrepreneur. Spending time in Africa, Asia, and Europe - I've never truly known where to call home, but I do have a strong appreciation for other people and their cultures. Having visited 58 countries, I feel enormously grateful to have had such a holistic upbringing.
+Born in Maryland, I followed my parents around the world as my mother served the US Department of State as a diplomat and my father an entrepreneur. Spending time in Africa, Asia, and Europe - I've never truly known where to call home, but I do have a strong appreciation for other people and their cultures. Having visited 58 countries, I feel enormously grateful to have had such a holistic upbringing. Earliest achievements I am the most proud of: making the rank of Eagle Scout despite scouting in 4 different countries, International Award Bronze and Silver level, and participating in THIMUN 3 times.
 
+![](eagle.jpeg)
+*Eagle Scout Court of Honor (Troop 236, US Embassy, Rome, Italy)*
 ![](visited_countries.png)
+*Countries visited*
 
 ## Education
 
-I received a Bachelor's degree in Mechanical Engineering and a Master's degree in Systems Engineering with a focus in entrepeneurship from Cornell University (Ithaca, NY).
+I received a Bachelor's degree in Mechanical Engineering and a Master's degree in Systems Engineering with a focus in entrepreneurship from Cornell University (Ithaca, NY).
 
 ![](cornell.jpg)
 
