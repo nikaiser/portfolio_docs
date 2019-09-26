@@ -1,5 +1,5 @@
 ---
-title: ^Sampling Instrument
+title: ~Sampling Instrument
 categories: ['biobot']
 ---
 #### Title

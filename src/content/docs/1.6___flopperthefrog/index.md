@@ -1,5 +1,5 @@
 ---
-title: ^Flopper the Frog
+title: ~Flopper the Frog
 categories: ['cornell']
 ---
 #### Teammates:

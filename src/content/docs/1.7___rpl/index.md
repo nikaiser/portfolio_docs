@@ -1,5 +1,5 @@
 ---
-title: ^Rapid Prototyping Lab (RPL)
+title: ~Rapid Prototyping Lab (RPL)
 categories: ['cornell']
 ---
 #### Teammates:

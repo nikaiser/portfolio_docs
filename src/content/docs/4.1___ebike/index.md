@@ -1,5 +1,5 @@
 ---
-title: ^E-Bike
+title: ~E-Bike
 categories: ['projects']
 ---
 ## Summary
