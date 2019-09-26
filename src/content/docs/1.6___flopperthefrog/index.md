@@ -3,14 +3,14 @@ title: ~Flopper the Frog
 categories: ['cornell']
 ---
 #### Teammates:
-Alex Krolick, Sam Daly
+[Alex Krolick](https://alexkrolick.com/), Sam Daly
 
 #### Professor:
 Robert Shepherd
 
 ## Summary
 
-My favorite project at Cornell, Flopper the Frog was a game we designed as a 21st century take on Hasbro's Operation. Flopper was a silicone frog body with spongy silicone organs we prototyped using novel techniques involving 3D printed (FDM) molds and modified silicones. The game concept was to follow instructions on our website, flopperthefrog.com, and remove organs, as instructed by a series of clues about the frog's body. Unlike in Operation where the board, i.e. human, was the contact point - the tweezers themselves buzzed in hand when too much force was applied in tweezing out the organs.  The fully functional game was demoed at various toy stores and the Science Center in Ithaca, NY. All the children who played the game were very receptive of it, the team felt the game was a total success, and likely market viable.
+My favorite project at Cornell, Flopper the Frog was a game we designed as a 21st century take on Hasbro's Operation. Flopper was a silicone frog body with spongy silicone organs we prototyped using novel techniques involving 3D printed (FDM) molds and modified silicones. The game concept was to follow instructions on our website, [flopperthefrog.com](flopperthefrog.com), and remove organs, as instructed by a series of clues about the frog's body. Unlike in Operation where the board, i.e. human, was the contact point - the tweezers themselves buzzed in hand when too much force was applied in tweezing out the organs.  The fully functional game was demoed at various toy stores and the Science Center in Ithaca, NY. All the children who played the game were very receptive of it, the team felt the game was a total success, and likely market viable.
 
 ## Photos
 ![](img1.jpg)
