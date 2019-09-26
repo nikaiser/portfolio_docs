@@ -1,11 +1,12 @@
 ---
-title: Wingmill Energy Harvesting Project, Laboratory for Intelligent Machine Systems
+title: Wingmill Energy Harvesting
 categories: ['cornell']
 ---
 #### Teammates:
 Henry Ekwaro-Osire, Oliver Kliewe, Peter Ingato, Al Jean-Francois, Yan "Asta" Li
+
 #### Professor:
-Ephrahim Garcia
+Ephrahim Garcia (Laboratory for Intelligent Machine Systems)
 
 ## Summary
 
