@@ -22,6 +22,14 @@ The four wings varied angle of attack repeatedly, a bio-inspired flapping design
 ![](wingmill2.jpg)
 *Fig. 2: Bevel Gearbox and first member of 4 bar linkage*
 
+## Literature
+
+
+[Paper](AIAAPaper_Revising.pdf)
+
+[![](CURB_Spring13_Poster.JPEG)](CURB_Spring13_Poster.pdf)
+
+
 ## Videos
 (Click through to Youtube)
 
