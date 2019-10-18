@@ -1,5 +1,5 @@
 ---
-title: ~Flopper the Frog
+title: Using undergraduate lab research to make a novel children's toy, Flopper the Frog
 categories: ['cornell']
 ---
 #### Teammates:

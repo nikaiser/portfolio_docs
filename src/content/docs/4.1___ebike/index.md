@@ -1,5 +1,5 @@
 ---
-title: ~E-Bike
+title: Not your typical Electrified Bicycle
 categories: ['projects']
 ---
 ## Summary

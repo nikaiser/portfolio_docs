@@ -1,5 +1,5 @@
 ---
-title: ~Ultra High Speed Pressure Cycler
+title: Ultra High Speed Pressure Cycler
 categories: ['sensata']
 ---
 ## Summary

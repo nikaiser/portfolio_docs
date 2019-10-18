@@ -1,5 +1,5 @@
 ---
-title: Scrum
+title: Scrum, a bit more 'tacky' than your average Jira board
 categories: ['biobot']
 ---
 #### Role

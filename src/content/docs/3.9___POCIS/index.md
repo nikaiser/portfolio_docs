@@ -1,5 +1,5 @@
 ---
-title: Passive Sampler Development
+title: Passive sampler alternative to 'box'
 categories: ['biobot']
 ---
 #### Role

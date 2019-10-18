@@ -1,5 +1,5 @@
 ---
-title: ~Rapid Prototyping Lab (RPL)
+title:  Founding the Rapid Prototyping Lab (inspired by fab lab)
 categories: ['cornell']
 ---
 #### Teammates:

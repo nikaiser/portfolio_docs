@@ -1,5 +1,5 @@
 ---
-title: ~Cellular Enabled Sampling Device Development for IoT
+title: Successful cell communication from sewer, re- faraday cage
 categories: ['biobot']
 ---
 #### Role

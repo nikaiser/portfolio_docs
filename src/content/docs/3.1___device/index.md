@@ -1,5 +1,5 @@
 ---
-title: ~Sampling Instrument
+title: The 'Box', a configurable sampling instrument for scientists
 categories: ['biobot']
 ---
 #### Title

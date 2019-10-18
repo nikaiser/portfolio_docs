@@ -1,5 +1,5 @@
 ---
-title: ~TapWorks
+title: TapWorks, my first company!
 categories: ['projects']
 ---
 ## Summary

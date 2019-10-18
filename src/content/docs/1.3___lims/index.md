@@ -1,5 +1,5 @@
 ---
-title: Wingmill Energy Harvesting
+title: Wingmill Energy Harvesting, novel wind energy harvesting device
 categories: ['cornell']
 ---
 #### Teammates:

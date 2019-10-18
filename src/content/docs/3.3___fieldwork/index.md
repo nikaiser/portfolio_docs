@@ -1,5 +1,5 @@
 ---
-title: Fieldwork
+title: Fieldwork, my time spent in the sewers
 categories: ['biobot']
 ---
 
@@ -19,3 +19,7 @@ Conducted a number of field excursions in New Bedford, MA, Somerville, MA, and C
 
 ![](IMG_2092.JPEG)
 *Fig. 4: Manhole at 444 Somerville Ave, in front of the office, with box deployed and functioning.*
+
+
+![](IMG_3012.JPEG)
+*Fig. 5: 3 samplers ready to go with "colostomy bags" to sanity check expected sampling, pre deployment*

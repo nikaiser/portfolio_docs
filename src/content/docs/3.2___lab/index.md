@@ -1,5 +1,5 @@
 ---
-title: ~Biobot Lab at Greentown Labs
+title: Biobot Dry Lab, a makerspace for interdisciplinary creation
 categories: ['biobot']
 ---
 
