@@ -55,7 +55,23 @@ module.exports = {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 690,
-              linkImagesToOriginal: true,
+              linkImagesToOriginal: false,
+            },
+          },
+          {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+              width: 800,
+              ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
+              height: 400, // Optional: Overrides optional.ratio
+              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
+              noIframeBorder: true, //Optional: Disable insertion of <style> border: 0,
+              urlOverrides: [
+                          {
+                            id: 'youtube',
+                            embedURL: (videoId) => `https://www.youtube-nocookie.com/embed/${videoId}`,
+                          }
+                        ] //Optional: Override URL of a service provider, e.g to enable youtube-nocookie support
             },
           },
           `gatsby-remark-prismjs`,
@@ -63,29 +79,29 @@ module.exports = {
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
           `gatsby-remark-external-links`,
-          {
-            resolve: 'gatsby-remark-emojis',
-            options: {
-              active: true,
-              class: 'emojiIcon',
-              size: 64,
-              styles: {
-                display: 'inline',
-                width: '22px',
-                'vertical-align': 'top',
+            {
+              resolve: 'gatsby-remark-emojis',
+              options: {
+                active: true,
+                class: 'emojiIcon',
+                size: 64,
+                styles: {
+                  display: 'inline',
+                  width: '22px',
+                  'vertical-align': 'top',
+                },
               },
             },
-          },
-        ],
+          ],
+        },
       },
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_ID,
+      {
+        resolve: `gatsby-plugin-google-analytics`,
+        options: {
+          trackingId: process.env.GOOGLE_ANALYTICS_ID,
+        },
       },
-    },
-    `gatsby-plugin-emotion`,
-    `gatsby-plugin-sitemap`,
-  ],
-};
+      `gatsby-plugin-emotion`,
+      `gatsby-plugin-sitemap`,
+    ],
+  };

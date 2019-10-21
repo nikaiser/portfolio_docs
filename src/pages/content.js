@@ -27,6 +27,7 @@ const ContentPage = props => {
     },
   } = props;
 
+
   const {
     headerTitle,
     headerSubTitle,
