@@ -2,6 +2,9 @@
 title: Biobot Dry Lab, a makerspace for interdisciplinary creation
 categories: ['biobot']
 ---
+`youtube: kiwuKKv6gzc`
+
+*Video showing final version of lab as built by Matt, Rob, and I.*
 
 ## Roles
 Builder
@@ -25,8 +28,3 @@ Starting at Biobot the lab was a few stainless benches designed purely for box r
 
 ![](IMG_2613.JPEG)
 *Fig. 4: Testing stand for bulk testing of 8 boxes at a time. Used to conduct longevity and lifetime testing. (intern in foreground + electrical engineer in background)*
-
-## Videos
-[![Lab Tour](http://img.youtube.com/vi/kiwuKKv6gzc/0.jpg)](http://www.youtube.com/watch?v=kiwuKKv6gzc "Lab Tour")
-
-*Video showing final version of lab as built by Matt, Rob, and I.*

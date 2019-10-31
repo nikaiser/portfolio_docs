@@ -2,6 +2,10 @@
 title: Development of a cheap, low flow pump
 categories: ['biobot']
 ---
+`youtube: 9FMy7yocY9k`
+
+*3D printed Rev 7 pump housing running and pumping at 14ml/min*
+
 #### Role
 Designer
 
@@ -19,8 +23,3 @@ Prior to my arrival, the cheapest peristaltic pump available was sourced; in an 
 
 ![](rev7.JPG)
 *Fig. 3: Rev 7 pump render*
-
-## Videos
-[![Peristaltic Pump](http://img.youtube.com/vi/JwgBJmqJitc/0.jpg)](http://www.youtube.com/watch?v=JwgBJmqJitc "3D Printed Pump Housing")
-
-*3D printed Rev 7 pump housing running and pumping at needed low volumes of water*

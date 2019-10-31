@@ -2,6 +2,11 @@
 title: Wingmill Energy Harvesting, novel wind energy harvesting device
 categories: ['cornell']
 ---
+
+`youtube: 0uVBgRiAV7E`
+
+*Generating a "laminar flow" condition to stimulate Wingmill consistently (rather than rely on highly variable wind patterns)*
+
 #### Teammates:
 Henry Ekwaro-Osire, Oliver Kliewe, Peter Ingato, Al Jean-Francois, Yan "Asta" Li
 
@@ -31,8 +36,6 @@ The four wings varied angle of attack repeatedly, a bio-inspired flapping design
 
 
 ## Videos
-(Click through to Youtube)
+`youtube: 6bINODuIiZI`
 
-[![Wingmill 1](http://img.youtube.com/vi/6bINODuIiZI/0.jpg)](http://www.youtube.com/watch?v=6bINODuIiZI "Wingmill Outside")
-
-[![Wingmill 2](http://img.youtube.com/vi/0uVBgRiAV7E/0.jpg)](http://www.youtube.com/watch?v=0uVBgRiAV7E "Wingmill Truck")
+*Stationary test of Wingmill, in parking lot*

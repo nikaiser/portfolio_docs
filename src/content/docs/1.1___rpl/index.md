@@ -24,8 +24,7 @@ During my tenure at the lab, from founding through the first year of operation, 
 *Fig. 2: The RPL today, 2019, the lab has come a long way since we first got it off the ground*
 
 ## Videos
-(Click through to Youtube)
 
-[![Liquid Metal Pump](http://img.youtube.com/vi/baFAR68NuK0/0.jpg)](http://www.youtube.com/watch?v=baFAR68NuK0 "UP printers going full steam after days of debug")
+`youtube: baFAR68NuK0`
 
 *UP printers going full steam after days of debug*

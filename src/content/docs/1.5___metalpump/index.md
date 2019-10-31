@@ -2,6 +2,12 @@
 title: Liquid Metal Pump
 categories: ['cornell']
 ---
+
+`youtube: 18qFsnMU8zE`
+
+*Water test of pump, no finished videos pumping metal. Device was fully functional at completion.*
+
+
 #### Teammates:
 Paul Chang, Oliver Kliewe
 
@@ -14,10 +20,3 @@ An interesting project based around the concept of, "can we move a metal and har
 ## Photos
 ![](IMG_0951.jpg)
 *Fig. 1: Unfinished photo of metal field pump, photos lost of completed project*
-
-## Videos
-(Click through to Youtube)
-
-[![Liquid Metal Pump](http://img.youtube.com/vi/18qFsnMU8zE/0.jpg)](http://www.youtube.com/watch?v=18qFsnMU8zE "Water test of Field's Metal pump")
-
-*Water test of pump, no finished videos pumping metal*

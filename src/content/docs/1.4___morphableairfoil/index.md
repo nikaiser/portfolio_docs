@@ -2,6 +2,12 @@
 title: Morphable Airfoil
 categories: ['cornell']
 ---
+
+`youtube: WSTw8pgNREs`
+
+*Wing support modeled after Fibonacci sequence demonstrating flex mechanism*
+
+
 #### Professor:
 Robert Shepherd
 
@@ -12,10 +18,3 @@ Fundamentally, a dihedral, or upward, wing angle on a plane contributes to its s
 ## Photos
 ![](img1.png)
 *Fig. 1: Airfoil Solid model showing flexible skeleton. Shell to be made from Silicone.*
-
-## Videos
-(Click through to Youtube)
-
-[![Morphable Airfoil](http://img.youtube.com/vi/WSTw8pgNREs/0.jpg)](http://www.youtube.com/watch?v=WSTw8pgNREs "Flexible wing skeleton actuation")
-
-*Wing support modeled after Fibonacci sequence*

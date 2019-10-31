@@ -2,12 +2,17 @@
 title: Successful cell communication from sewer, re- faraday cage
 categories: ['biobot']
 ---
+`youtube: n7Q2LO8Xu4A`
+
+*Rob KillKelley demonstrating wireless communication to sampling device*
+
+
 #### Role
-Manager
+Lead
 
 ## Summary
 
-Directed and supported electromechanical engineer to develop a simple waterproof test box that enabled communication from a manhole. Long thought to be impossible due to the assumption that the subterranean communication would be hindered by the manhole cover and thick cement walls, an informal Faraday cage; despite this assumption, we found an antenna and cellular enabled micro-controller configuration that allowed us to communicate from a manhole, from up to 5 ft deep. The tech developed in our mini-testbox was then grafted onto an existing gamma build unit and demonstrated that wireless communication can be enabled from an actual sampling device.
+Directed and led electromechanical engineer to develop a simple waterproof test box that enabled communication from a manhole. Long thought to be impossible due to the assumption that the subterranean communication would be hindered by the manhole cover and thick cement walls, an informal Faraday cage; despite this assumption, we found an antenna and cellular enabled micro-controller configuration that allowed us to communicate from a manhole, from up to 5 ft deep. The tech developed in our mini-testbox was then grafted onto an existing gamma build unit and demonstrated that wireless communication can be enabled from an actual sampling device.
 
 
 ## Photos
@@ -16,8 +21,3 @@ Directed and supported electromechanical engineer to develop a simple waterproof
 
 ![](IMG_2693.JPEG)
 *Fig. 2: Example of partial manhole covering to determine communication under various test conditions. With a full manhole covering, a faraday cage prevented most transmissions. But a few different combinations of test devices were found to be able to communicate effectively.*
-
-## Videos
-[![Wireless Enabled Box](http://img.youtube.com/vi/n7Q2LO8Xu4A/0.jpg)](http://www.youtube.com/watch?v=n7Q2LO8Xu4A "Wireless Demo")
-
-*Rob KillKelley demonstrating wireless communication to sampling device*

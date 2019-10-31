@@ -2,6 +2,11 @@
 title: Fulcrum + 1200lb toggled magnet = easy manhole lifter
 categories: ['biobot']
 ---
+
+`youtube: Wc-Hrvxtb8I`
+
+*Matt Murphy demonstrating a near finalized revision of his manhole lifter*
+
 #### Role
 Advisor
 
@@ -16,9 +21,3 @@ During field work it was determined that the existing method practiced to lift m
 
 ![](IMG_2970.JPEG)
 *Fig. 2: Nearly finalized revision of manhole lifter in action, final upgrades required support chain to prevent pivot point stress, and shortened chain to lifter magnet. This revision had a widened axle that helped with stability but that bent under load. Final revision had thicker, stiffer shaft custom machined for this purpose.*
-
-
-## Videos
-[![Manhole Lifter](http://img.youtube.com/vi/Wc-Hrvxtb8I/0.jpg)](http://www.youtube.com/watch?v=Wc-Hrvxtb8I "Manhole Lifter")
-
-*Matt Murphy demonstrating a near finalized revision of his manhole lifter*

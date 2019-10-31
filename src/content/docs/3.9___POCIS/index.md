@@ -2,6 +2,10 @@
 title: Passive sampler alternative to 'box'
 categories: ['biobot']
 ---
+`youtube: oLlYg-b9A_Q`
+
+*Install of sampler in Cambridge manhole*
+
 #### Role
 Designer
 
@@ -16,8 +20,3 @@ As an alternative to the costly hardware sampler, Dr. Endo developed a passive s
 
 ![](IMG_3008b.jpeg)
 *Fig. 2: Rev 2 passive sampler, much easier to manufacture with custom laser cut end caps on one side and added eyelets to the sidewall. Case was designated as "wood chip smoker" for barbeque use.*
-
-## Videos
-[![Deployment](http://img.youtube.com/vi/oLlYg-b9A_Q/0.jpg)](http://www.youtube.com/watch?v=oLlYg-b9A_Q "Passive Sampler Install Cambridge")
-
-*Team install of sampler in Cambridge manhole*

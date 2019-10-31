@@ -2,6 +2,8 @@
 title: TapWorks, my first company!
 categories: ['projects']
 ---
+`youtube: JAJbTm7qbpI`
+
 ## Summary
 
 TapWorks was a project conceived when my friend Erik Modahl of [beantrust.](https://beantrustcoffee.com/) approached me with a problem, "Nik, it would be great to know when my cold brew kegs are finished" After a quick market evaluation, I found a number of kludgy solutions to help with keg monitoring, but I came up with an idea that was even simpler. I designed a smart tap handle, and, with Rob KillKelley's help - built one. The technology is super simple, it consists of a cellular enabled micro controller, a battery, and a gyroscope - the tap handle measures the duration of pour. The data is then relayed to a server, and that server translates the data into an actionable data pipe stream.
