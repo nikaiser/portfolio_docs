@@ -1,5 +1,5 @@
 ---
-title: BikeSto a city planning company idea
+title: BikeSto, a city planning company idea
 categories: ['cornell']
 ---
 #### Teammates:
@@ -14,10 +14,10 @@ George Schneider, John Nesheim
 
 ## Summary
 
-Our background as engineers and a shared love for bicycles led us to create BikeSto, a bike storage startup idea for an entrepreneurship course in the Johnson School. The product was a nifty little electronic bike locks that anyone can use anywhere. They mount to existing bike rack infrastructure, and provided distributed docks to any type of dock - not just city provided bikes. The reason this works is that as commuters pursue safer and consequently heavier locks, the convenience of biking as a whole drops precipitously. The safer the bike lock, the more cumbersome. The inverse relationship of safety and convenience is one of the significant mitigating factors of true bike proliferation. 
+Our background as engineers and a shared love for bicycles led us to create BikeSto, a bike storage startup idea for an entrepreneurship course in the Johnson School. The product was a system of electronic bike locks that anyone can use anywhere. They mount to existing bike rack infrastructure, and provided distributed docks to any type of bike - not just city provided bikes. The reason this works is that, as commuters pursue safer and consequently heavier locks, the convenience of biking as a whole drops precipitously. The safer the bike lock, the more cumbersome. The inverse relationship of safety and convenience is one of the significant mitigating factors of true bike proliferation.
 
 ## Literature
 
-[Business Plan](NBA 5070 - Team 5 - Business Plan.pdf)
+[Business Plan](BusinessPlan.pdf)
 
-[Pitch Deck](NBA 5070 - Team 5 - Business Plan.pdf)
+[Pitch Deck](Presentation.pdf)
