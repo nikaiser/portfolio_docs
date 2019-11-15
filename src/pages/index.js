@@ -47,7 +47,7 @@ const IndexPage = props => {
         <Img fluid={logoFluid} className="image" />
         <div dangerouslySetInnerHTML={{ __html: heroHTML }} />
       </Hero>
-      <Footer links={footerLinksHTML} copyright={copyrightHTML} />
+     <Footer links={footerLinksHTML} copyright={copyrightHTML} />
       <Seo
         url={siteUrl}
         language={siteLanguage}

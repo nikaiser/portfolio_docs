@@ -23,14 +23,12 @@ const Footer = props => {
 
           Greg Lobinski
         */}
-        Built with{' '}
+        Built and expanded on{' '}
         <a href="https://github.com/greglobinski/gatsby-starter-kit">
           GatsbyJS Starter Kit
         </a>{' '}
         | Design by{' '}
-        <a href="https://github.com/greglobinski/react-website-themes">
-          React Website Themes
-        </a>.
+        nik lal.
       </div>
     </footer>
   );
