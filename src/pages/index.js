@@ -2,16 +2,16 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
 
-import '@react-website-themes/classy-docs/styles/variables';
-import '@react-website-themes/classy-docs/styles/global';
+import 'styles/variables';
+import 'styles/global';
 
-import Branding from '@react-website-themes/classy-docs/components/Branding';
-import Footer from '@react-website-themes/classy-docs/components/Footer';
-import Header from '@react-website-themes/classy-docs/components/Header';
-import Hero from '@react-website-themes/classy-docs/components/Hero';
-import Layout from '@react-website-themes/classy-docs/components/Layout';
-import Menu from '@react-website-themes/classy-docs/components/Menu';
-import Seo from '@react-website-themes/classy-docs/components/Seo';
+import Branding from 'components/Branding';
+import Footer from 'components/Footer';
+import Header from 'components/Header';
+import Hero from 'components/Hero';
+import Layout from 'components/Layout';
+import Menu from 'components/Menu';
+import Seo from 'components/Seo';
 
 import config from 'content/meta/config';
 import menuItems from 'content/meta/menu';
