@@ -41,9 +41,22 @@ const list = css`
   }
 
   & a {
+    display: flex;
+    height: 100%;
+    margin: 0 5px;
+    color: var(--linkColor);
+    position: relative;
     text-decoration: none;
-    color: #666;
-  }
+
+    &:hover{
+      color: var(--hoverLinkColor);
+      font-style: italic;
+      text-decoration: underline;
+      transition: font-weight 0.01s;
+      transition: font-style 0.01s;
+
+   }
+
 `;
 
 export default list;
