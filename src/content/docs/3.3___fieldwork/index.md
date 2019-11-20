@@ -1,6 +1,8 @@
 ---
 title: Fieldwork, my time spent in the sewers
 categories: ['biobot']
+featured: true
+featuredImage: './squad.jpeg'
 ---
 
 ## Summary

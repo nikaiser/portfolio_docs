@@ -1,6 +1,8 @@
 ---
 title: Not your typical Electrified Bicycle
 categories: ['projects']
+featured: true
+featuredImage: './bike.jpeg'
 ---
 `youtube: fR6uySCIAOo`
 

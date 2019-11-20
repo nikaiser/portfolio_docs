@@ -1,6 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
+import { css } from 'emotion';
 
 import 'styles/variables';
 import 'styles/global';
@@ -9,6 +10,7 @@ import Branding from 'components/Branding';
 import Footer from 'components/Footer';
 import Header from 'components/Header';
 import Hero from 'components/Hero';
+import Featured from 'components/Featured';
 import Layout from 'components/Layout';
 import Menu from 'components/Menu';
 import Seo from 'components/Seo';
@@ -25,6 +27,7 @@ const IndexPage = props => {
       logo: {
         childImageSharp: { fluid: logoFluid },
       },
+      featuredPosts,
     },
   } = props;
 
@@ -47,7 +50,8 @@ const IndexPage = props => {
         <Img fluid={logoFluid} className="image" />
         <div dangerouslySetInnerHTML={{ __html: heroHTML }} />
       </Hero>
-     <Footer links={footerLinksHTML} copyright={copyrightHTML} />
+      <Featured featuredPosts={featuredPosts} title={'Featured Posts'}/>
+      <Footer links={footerLinksHTML} copyright={copyrightHTML} />
       <Seo
         url={siteUrl}
         language={siteLanguage}
@@ -81,6 +85,33 @@ export const query = graphql`
       fileAbsolutePath: { regex: "/content/parts/copyright/" }
     ) {
       html
+    }
+    featuredPosts: allMarkdownRemark(
+      limit: 6
+      filter: { frontmatter: { featured: { eq: true } } }
+    ) {
+      edges {
+        node {
+          id
+          fields {
+            slug
+            source
+          }
+          frontmatter {
+            title
+            name
+            _PARENT
+            shortTitle
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 590) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 `;

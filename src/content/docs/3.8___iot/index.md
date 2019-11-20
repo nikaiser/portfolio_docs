@@ -1,6 +1,8 @@
 ---
 title: Successful cell communication from sewer, re- faraday cage
 categories: ['biobot']
+featured: true
+featuredImage: './IMG_2814.JPEG'
 ---
 `youtube: n7Q2LO8Xu4A`
 
