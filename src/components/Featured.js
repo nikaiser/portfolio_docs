@@ -45,7 +45,7 @@ const Featured = props => {
             justify-content: center;
             flex-wrap: wrap;
             width: 100%;
-            max-width: 1100px;
+            max-width: 1300px;
           `}
         >
           {featuredPosts.edges.map(post => {
@@ -53,7 +53,7 @@ const Featured = props => {
             return (
               <div
                 css={css`
-                  margin: 20px;
+                  margin: 5px;
                   flex: 0 1;
                   position: relative;
                 `}
@@ -70,10 +70,10 @@ const Featured = props => {
                     alt={post.node.frontmatter.title}
                     css={css`
                       max-width: 100%;
-                      border-radius: 3px;
-                      width: 300px;
-                      box-shadow: -2px 2px 8px 1px rgba(0, 0, 0, 0.3);
-                      height: 400px;
+                      border-radius: 10px;
+                      width: 350px;
+                      box-shadow: -2px 2px 8px 1px rgba(0, 0, 0, .3);
+                      height: 300px;
                     `}
                   />
                   <div
@@ -82,15 +82,16 @@ const Featured = props => {
                       bottom: 0;
                       left: 0;
                       right: 0;
-                      background: rgba(0, 0, 0, 0.5);
-                      color: rgba(255, 100, 120, 0.8);
-                      padding: 20px;
+                      background: var(--superLightGray);
+                      color: var(--linkColor);
+                      padding: 5px;
                       font-weight: bold;
                       text-overflow: ellipsis;
                       overflow: hidden;
                       white-space: nowrap;
                       border-bottom-right-radius: 3px;
                       border-bottom-left-radius: 3px;
+                      }
                     `}
                   >
                     {post.node.frontmatter.title}
