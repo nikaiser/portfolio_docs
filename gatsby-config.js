@@ -7,37 +7,6 @@ module.exports = {
     siteUrl: config.siteUrl,
   },
   plugins: [
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `images`,
-        path: `${__dirname}/src/content/images/`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `parts`,
-        path: `${__dirname}/src/content/parts/`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `pages`,
-        path: `${__dirname}/src/content/pages/`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `docs`,
-        path: `${__dirname}/src/content/docs/`,
-      },
-    },
-    `gatsby-transformer-remark`,
-    `gatsby-plugin-resolve-src`,
-    `gatsby-plugin-catch-links`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     {
@@ -45,17 +14,20 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: `gatsby-remark-autolink-headers`,
-            options: {
-              offsetY: `50`,
-              icon: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>`,
-            },
+            resolve: 'gatsby-remark-relative-images',
           },
           {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 690,
-              linkImagesToOriginal: false,
+              // linkImagesToOriginal: false,
+            },
+          },
+          {
+            resolve: `gatsby-remark-autolink-headers`,
+            options: {
+              offsetY: `50`,
+              icon: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>`,
             },
           },
           {
@@ -95,6 +67,36 @@ module.exports = {
           ],
         },
       },
+      {
+        resolve: `gatsby-source-filesystem`,
+        options: {
+          name: `parts`,
+          path: `${__dirname}/src/content/parts/`,
+        },
+      },
+      {
+        resolve: `gatsby-source-filesystem`,
+        options: {
+          name: `pages`,
+          path: `${__dirname}/src/content/pages/`,
+        },
+      },
+      {
+        resolve: `gatsby-source-filesystem`,
+        options: {
+          name: `docs`,
+          path: `${__dirname}/src/content/docs/`,
+        },
+      },
+      {
+        resolve: `gatsby-source-filesystem`,
+        options: {
+          name: `images`,
+          path: `${__dirname}/src/content/images/`,
+        },
+      },
+      `gatsby-plugin-resolve-src`,
+      `gatsby-plugin-catch-links`,
       {
         resolve: `gatsby-plugin-google-analytics`,
         options: {

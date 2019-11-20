@@ -1,6 +1,8 @@
 ---
 title: Using undergraduate lab research to make a novel children's toy, Flopper the Frog
 categories: ['cornell']
+featuredImage: './img2.jpg'
+featured: true
 ---
 #### Teammates:
 [Alex Krolick](https://alexkrolick.com/), Sam Daly
