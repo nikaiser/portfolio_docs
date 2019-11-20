@@ -1,7 +1,7 @@
 ---
 title: Biobot Dry Lab, a makerspace for interdisciplinary creation
 categories: ['biobot']
-featuredImage: './IMG_3023.JPEG'
+featuredImage: './IMG_3023_2.JPEG'
 featured: true
 ---
 `youtube: kiwuKKv6gzc`

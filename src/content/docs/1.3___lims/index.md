@@ -1,6 +1,8 @@
 ---
 title: Wingmill Energy Harvesting, novel wind energy harvesting device
 categories: ['cornell']
+featuredImage: './CURB_Spring13_Poster.JPEG'
+featured: false
 ---
 
 `youtube: 0uVBgRiAV7E`
