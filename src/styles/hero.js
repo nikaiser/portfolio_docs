@@ -34,7 +34,7 @@ const hero = css`
   })};
 
   & .image {
-    max-width: 500px;
+    max-width: 1000px;
     margin: 0 auto 20px;
   }
 
