@@ -24,7 +24,6 @@ const Featured = props => {
             css={css`
               text-align: center;
               font-weight: normal;
-              font-style: italic;
               font-size: 28px;
               margin-bottom: 1.5em;
               margin-top: 0;
