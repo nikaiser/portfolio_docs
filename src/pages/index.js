@@ -50,7 +50,7 @@ const IndexPage = props => {
         <Img fluid={logoFluid} className="image" />
         <div dangerouslySetInnerHTML={{ __html: heroHTML }} />
       </Hero>
-      <Featured featuredPosts={featuredPosts} title={'Featured Posts'}/>
+      <Featured featuredPosts={featuredPosts} title={'Featured Posts:'}/>
       <Footer links={footerLinksHTML} copyright={copyrightHTML} />
       <Seo
         url={siteUrl}
