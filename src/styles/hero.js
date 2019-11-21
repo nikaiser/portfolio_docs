@@ -9,7 +9,7 @@ const pulse = keyframes`
   from {
     box-shadow: 0 0 0 2px white, 0 0 0 3px rgba(221,0,0, .5);
   }
-  70% {
+  50% {
     box-shadow: 0 0 0 6px white, 0 0 0 8px rgba(221, 0, 0, 0);
   }
   to {
@@ -20,21 +20,21 @@ const pulse = keyframes`
 const hero = css`
   flex-direction: column;
   display: flex;
-  justify-content: center;
+  justify-content: top;
   align-items: strech;
-  padding: 0 10%;
+  padding: 0 0;
   text-align: center;
 
   ${mq({
     minHeight: [
-      'calc(100vh - 300px)',
-      'calc(100vh - 280px)',
+      'calc(100vh - 500px)',
+      'calc(100vh - 400px)',
       'calc(100vh - 260px)',
     ],
   })};
 
   & .image {
-    max-width: 500px;
+    max-width: 1000px;
     margin: 0 auto 20px;
   }
 
@@ -47,7 +47,7 @@ const hero = css`
     border-radius: 5px;
 
     ${mq({
-      fontSize: ['2.2em', '2.6em', '3em'],
+      fontSize: ['2em', '2.6em', '3em'],
     })};
   }
 
