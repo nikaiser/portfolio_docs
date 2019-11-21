@@ -1,7 +1,7 @@
 ---
 title: Novel sensor development
 categories: ['sensata']
-featuredImage: './IMG_2269.JPEG'
+featuredImage: './corona.jpg'
 featured: true
 ---
 #### Title
@@ -23,7 +23,7 @@ Solidworks, coating development and process control, prototype sample builds on 
 ![](IMG_2271.JPEG)
 *Fig. 1: I developed a laser ablation method to subtractively manufacture electrode patterns on gold thick film deposited substrates for same day iteration. We also made full circuit layouts using this method.*
 
-![](IMG_2269.JPEG)
+![](corona.jpg)
 *Fig. 2: Reflection of me in front of a plasma cleaner (corona treatment), many hours were spent here dialing in the process. Plasma cleaner used to prepare glass surface for silane deposition.*
 
 ![](IMG_2308.JPEG)
