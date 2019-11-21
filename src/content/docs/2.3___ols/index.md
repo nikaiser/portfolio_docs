@@ -1,5 +1,5 @@
 ---
-title: Novel sensor development
+title: Autonomous vehicle sensor development
 categories: ['sensata']
 featuredImage: './corona.jpg'
 featured: true
