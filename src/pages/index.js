@@ -87,7 +87,7 @@ export const query = graphql`
       html
     }
     featuredPosts: allMarkdownRemark(
-      limit: 9
+      limit: 10
       filter: { frontmatter: { featured: { eq: true } } }
     ) {
       edges {

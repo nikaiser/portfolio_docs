@@ -7,7 +7,7 @@ featuredImage: './squad.jpeg'
 
 ## Summary
 
-Conducted a number of field excursions in New Bedford, MA, Somerville, MA, and Cambridge, MA. Totally unexperienced in field work prior to Biobot, but developed methodologies for fast and efficient surveying and deployment.
+Conducted a number of field excursions in New Bedford, MA, Somerville, MA, and Cambridge, MA. Minimal field experience before joining, but developed methodologies for fast and efficient surveying and deployment.
 
 ## Photos
 ![](squad.jpeg)
@@ -24,4 +24,4 @@ Conducted a number of field excursions in New Bedford, MA, Somerville, MA, and C
 
 
 ![](IMG_3012.JPEG)
-*Fig. 5: 3 samplers ready to go with "colostomy bags" to sanity check expected sampling, pre deployment*
+*Fig. 5: 3 samplers ready to go with output measurement bladders to sanity check expected sampling, pre deployment*

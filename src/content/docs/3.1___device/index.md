@@ -1,5 +1,5 @@
 ---
-title: The 'Box', a configurable sampling instrument for scientists
+title: The 'Box', an electromechanical sampling instrument for biologists and chemists
 categories: ['biobot']
 ---
 #### Title

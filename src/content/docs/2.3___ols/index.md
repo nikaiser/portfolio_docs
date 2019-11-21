@@ -1,6 +1,8 @@
 ---
-title: Sensor Development for Vehicle Health Monitoring in Autonomous Cars
+title: Novel sensor development
 categories: ['sensata']
+featuredImage: './IMG_2269.JPEG'
+featured: true
 ---
 #### Title
 Mechanical Design Engineer, Advanced Technologies
@@ -18,5 +20,14 @@ Filed, under NDA.
 Solidworks, coating development and process control, prototype sample builds on short timelines, use of SLA components in high stress environments, short turn machined samples, prototype assembly process, endcapping with silane deposition, technical screen-printing
 
 ## Photos
-![](autonomy.png)
-*Fig. 1: Visualization from Yole Development indicating need and trends*
+![](IMG_2271.JPEG)
+*Fig. 1: I developed a laser ablation method to subtractively manufacture electrode patterns on gold thick film deposited substrates for same day iteration. We also made full circuit layouts using this method.*
+
+![](IMG_2269.JPEG)
+*Fig. 2: Reflection of me in front of a plasma cleaner (corona treatment), many hours were spent here dialing in the process. Plasma cleaner used to prepare glass surface for silane deposition.*
+
+![](IMG_2308.JPEG)
+*Fig. 3: Evaluating various fluorinated silanes on glass test samples.*
+
+![](IMG_2982.JPEG)
+*Fig. 4: Completed substrate with electrode patterns visible through deposited glass.*

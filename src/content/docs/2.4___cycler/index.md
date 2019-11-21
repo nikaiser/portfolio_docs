@@ -1,7 +1,11 @@
 ---
-title: Ultra High Speed Pressure Cycler
+title: Piezo-resistive Amplified High Speed Pressure Cycler
 categories: ['sensata']
+featuredImage: './closeup.jpeg'
+featured: true
 ---
+![](diagram.JPEG)
+
 ## Summary
 
 I developed a system of pressure cycling that would enable me to high speed pressure cycle far in excess of Sensata's typical pressure cycling frequencies. Most pressure cycling at Sensata took place <10 Hz, but the cycler I built was capable of cycling at up to 5kHz. A customer approached us with a test that would require 400M cycles. Normally this test would take years to run, and so to save millions of dollars in NRE, I developed this cycler.

@@ -1,5 +1,5 @@
 ---
-title: Successful cell communication from sewer, re- faraday cage
+title: Subterranean cellular connected device
 categories: ['biobot']
 featured: true
 featuredImage: './IMG_2814.JPEG'

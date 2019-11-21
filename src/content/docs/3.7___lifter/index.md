@@ -1,5 +1,5 @@
 ---
-title: Fulcrum + 1200lb toggled magnet = easy manhole lifter
+title: High load manhole lifter
 categories: ['biobot']
 ---
 

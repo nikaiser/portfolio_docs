@@ -1,6 +1,8 @@
 ---
 title:  Founding of the Rapid Prototyping Lab (inspired by fab lab)
 categories: ['cornell']
+featuredImage: './lab.jpg'
+featured: true
 ---
 #### Teammates:
 Georgia Crowther, Paul Chang, Oliver Kliewe

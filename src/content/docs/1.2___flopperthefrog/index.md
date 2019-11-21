@@ -1,5 +1,5 @@
 ---
-title: Using undergraduate lab research to make a novel children's toy, Flopper the Frog
+title: Flopper the Frog, novel use of foamed silicones for a children's toy
 categories: ['cornell']
 featuredImage: './img2.jpg'
 featured: true
