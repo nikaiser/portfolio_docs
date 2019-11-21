@@ -30,3 +30,6 @@ Starting at Biobot the lab was a few stainless benches designed purely for box r
 
 ![](IMG_2613.JPEG)
 *Fig. 4: Testing stand for bulk testing of 8 boxes at a time. Used to conduct longevity and lifetime testing. (intern in foreground + electrical engineer in background)*
+
+[![](blueprint.jpg)](blueprint.pdf)
+*Fig. 5: Blueprint used to layout lab in advance, before moving furniture for the final iteration.*
