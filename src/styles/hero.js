@@ -28,7 +28,7 @@ const hero = css`
   ${mq({
     minHeight: [
       'calc(100vh - 500px)',
-      'calc(100vh - 400px)',
+      'calc(100vh - 350px)',
       'calc(100vh - 260px)',
     ],
   })};

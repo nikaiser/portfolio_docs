@@ -1,5 +1,5 @@
 const base = {
-  name: 'Nik Lal',
+  name: 'NIK LAL',
   url: 'https://niklal.me'
 };
 

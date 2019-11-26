@@ -2,6 +2,6 @@
 name: hero
 ---
 
-Engineer, Innovator, Outdoorsman
+Thinker, Dreamer, Eater
 
 [Portfolio](./content)

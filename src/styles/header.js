@@ -8,7 +8,7 @@ const mq = facepaint(breakpoints.map(bp => `@media (min-width: ${bp}px)`));
 const header = css`
   display: flex;
   margin-bottom: 50px;
-  padding: 5px 5px 0;
+  padding: 5px 5px 0px;
   align-items: center;
 
   ${mq({

@@ -19,7 +19,7 @@ const branding = css`
   })};
 
   h1 {
-    font-size: 1em;
+    font-size: 5em;
     margin-bottom: 3px;
     font-weight: 400;
   }
