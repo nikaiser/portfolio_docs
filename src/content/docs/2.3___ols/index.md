@@ -6,7 +6,6 @@ featured: true
 ---
 #### Title
 Mechanical Design Engineer, Advanced Technologies
-
 Lead Process Design Engineer, Advanced Technologies
 
 ## Summary
@@ -22,7 +21,7 @@ Solidworks, coating development and process control, prototype sample builds on 
 
 ## Photos
 ![](IMG_2271.JPEG)
-*Fig. 1: I developed a laser ablation method to subtractively manufacture electrode patterns on silkscreened gold, thick film substrates. We also made full circuit layouts using this method. *
+*Fig. 1: I developed a laser ablation method to subtractively manufacture electrode patterns on silkscreened gold, thick film substrates. We also made full circuit layouts using this method.*
 
 ![](corona.jpg)
 *Fig. 2: Reflection of me in front of a plasma cleaner (corona treatment), many hours were spent here dialing in the process. Plasma cleaner used to prepare glass surface for silane deposition, amongst other needs that required increase surface energy.*
