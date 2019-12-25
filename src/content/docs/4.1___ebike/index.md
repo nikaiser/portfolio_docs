@@ -14,8 +14,8 @@ As any good MechE would do, I built myself an e-bike. But instead of sticking wi
 
 *Specs:*
 Max Speed: 26MPh
-Distance: 5mi
-Acceleration: ??
+Distance: 7mi
+Acceleration: Doesn't Matter.
 
 ## Photos
 ![](IMG_2064.JPEG)
@@ -28,7 +28,7 @@ Acceleration: ??
 *Fig. 3: Machining disc brake caliper bracket as the hub was significantly wider than the original hub. Milling down bolt attach points enabled me to move the caliper 0.15" outwards from the center plane.*
 
 ![](IMG_2110.JPEG)
-*Fig. 3: Custom spacers were turned on the lathe to get proper chain alignment on a 7-speed freewheel hub that I converted to a single speed freewheel.*
+*Fig. 4: Custom spacers were turned on the lathe to get proper chain alignment on a 7-speed freewheel hub that I converted to a single speed freewheel.*
 
-![](bike.jpeg)
-*Fig. 4: Completed bicycle after test ride*
+![](IMG_4740C.jpeg)
+*Fig. 5: Completed bicycle after test ride*
