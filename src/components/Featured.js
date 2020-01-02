@@ -73,6 +73,11 @@ const Featured = props => {
                       width: 350px;
                       box-shadow: -2px 2px 8px 1px rgba(0, 0, 0, .3);
                       height: 300px;
+
+                      &:hover {
+                         transform: scale(.9);
+
+                       }
                     `}
                   />
                   <div
@@ -81,7 +86,7 @@ const Featured = props => {
                       bottom: 0;
                       left: 0;
                       right: 0;
-                      background: var(--superLightGray);
+                      background: #fff;
                       color: var(--linkColor);
                       padding: 5px;
                       font-weight: bold;
@@ -90,6 +95,11 @@ const Featured = props => {
                       white-space: nowrap;
                       border-bottom-right-radius: 3px;
                       border-bottom-left-radius: 3px;
+
+                      &:hover {
+                        color: var(--hoverLinkColor);
+                      }
+                      }
                       }
                     `}
                   >
