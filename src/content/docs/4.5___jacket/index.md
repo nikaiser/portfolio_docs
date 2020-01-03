@@ -8,7 +8,7 @@ featuredImage: './jacket.jpg'
 
 ## Summary
 
-My friend wanted to go to a light festival, and so we went illuminated. We chose projects the night before and had a hackathon the night before. The jacket reflects the breathing of the user, as a cyclist I want to remind people I am not just a glowing LED dot, hovering in the night, I am a living, breathing human - please do not drive cautiously!
+My friend wanted to go to a light festival, and so we went illuminated. We chose projects the night before and hacked them together. The jacket reflects the breathing of the user, as the wearer's chest expands the lighting intensifies, and conversely, on contraction, the lighting dims. The expansion and contraction were measured by a Force Sensing Resistor (FSR) that I strapped to my chest with the mildly elastic belt I was wearing at the time. As a cyclist I want to remind people I am not just a binary dot hovering in the night: I am a living, breathing human - please do not run me over!
 
 ## Photos
 ![](breathing.gif)
