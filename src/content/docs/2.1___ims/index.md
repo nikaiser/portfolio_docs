@@ -7,7 +7,7 @@ Mechanical Design Engineer, Sustaining
 
 ## Summary
 
-Trial by fire, my first project assigned at Sensata was a group of sustaining engineering programs. All designed at least 10 years before I joined the company, I was responsible for customer management, design validation, and change management. Representing 30+ sensors with over 40MU/year, the variety of projects, and problems I encountered provided an exceptional baseline of knowledge for the NPD programs I would work on later in my career.
+Trial by fire, my first project assigned at Sensata was a group of sustaining engineering programs. All designed at least 10 years before I joined the company, I was responsible for customer management, design validation, and change management. Representing 30+ sensors with over 40MU/year, the variety of projects, and problems I encountered provided an exceptional baseline of knowledge for the New Product Development (NPD) programs I would work on later in my career.
 
 ## Skills
 

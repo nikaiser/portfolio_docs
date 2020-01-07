@@ -1,6 +1,9 @@
 ---
 title: The 'Box', an electromechanical sampling instrument for biologists and chemists
 categories: ['biobot']
+featured: true
+featuredImage: './box2.jpg'
+---
 ---
 #### Title
 Hardware Engineer

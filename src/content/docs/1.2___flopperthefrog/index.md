@@ -16,7 +16,7 @@ My favorite project at Cornell, Flopper the Frog was a game we designed as a 21s
 
 ## Photos
 ![](img1.jpg)
-**Fig. 1: Tweezer prototype, vibrate under excessive pressure (me in the background)**
+**Fig. 1: Tweezer prototype, if an organ was squeezed too hard it would vibrate (me in the background)**
 
 ![](img2.jpg)
 **Fig. 2: Molding Rev1 frog, significant excessive material on print**

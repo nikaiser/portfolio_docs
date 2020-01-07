@@ -4,7 +4,7 @@ categories: ['projects']
 ---
 ## Summary
 
-One day whilst working on some solid modelling, a package came across my desk with no discernible or obvious origin, other than the fact that it was addressed to me. Inside were 10 black boxes with 4 wires attached to each. It was peculiar to say the least. Thinking nothing of it, I filed it away on the shelf for future evaluation. Months later, I grabbed the box, and spent some time trying to figure out what they were. I come to find out that they were portable, high voltage generators!
+One day whilst working on some solid modelling, a package from China came across my desk with no discernible or obvious origin, other than the fact that it was addressed to me. Inside were 10 black boxes with 4 wires attached to each. It was peculiar to say the least. Thinking nothing of it, I filed it away on the shelf for future evaluation. Months later, I grabbed the box, and spent some time trying to figure out what they were. I come to find out that they were portable, high voltage generators!
 
 ### Method:
 
@@ -18,9 +18,6 @@ One day whilst working on some solid modelling, a package came across my desk wi
 Following this adventure, I made it into a hand held high voltage generator.
 
 ## Photos
-![](generator.jpeg)
-*Fig. 1: After finding out the purpose, here is a picture from an AliExpress listing, must have been sent erroneously by a supplier of some other components I had ordered.*
 
-
-![](IMG-4012.jpeg)
-*Fig. 2: A quick little hand taser I whipped together using a single 18650 cell, and a button. Has ~2cm spark at maximum, so about ~60kV estimated performance. (30kV/cm for air)*
+![](handheld.JPEG)
+*Fig. 1: A quick little hand taser I whipped together using a single 18650 cell, and a button. Has ~2cm spark at maximum, so about ~60kV estimated performance. (30kV/cm for air)*

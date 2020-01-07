@@ -1,16 +1,15 @@
 ---
 title: Autonomous vehicle sensor development
 categories: ['sensata']
-featuredImage: './corona.jpg'
+featuredImage: './corona3.jpg'
 featured: true
 ---
 #### Title
-Mechanical Design Engineer, Advanced Technologies
-Lead Process Design Engineer, Advanced Technologies
+Mechanical Design Engineer > Lead Process Design Engineer, Advanced Technologies
 
 ## Summary
 
-During my last year at Sensata I worked on new technology development, we were assigned the mission of finding, building, and demoing sensors that were needed for the use cases dictated by autonomous vehicles. My responsibilities primarily surrounded package development, sensor design and manufacture for these products, and ensuring that the unique challenges posed by the technology can be solved in full scale production.
+During my last year at Sensata I worked on new technology development, we were assigned the mission of finding novel sensing tech, building the tech into working prototypes, and demoing the sensors for Ford, GM, and Chrysler that were needed for the use cases dictated by autonomous vehicles. My responsibilities primarily surrounded package development, sensor design and manufacture for these products, and ensuring that the unique challenges posed by the technology can be solved in full scale production.
 
 ## Patent
 Filed, under NDA.
@@ -20,10 +19,10 @@ Filed, under NDA.
 Solidworks, coating development and process control, prototype sample builds on short timelines, use of SLA components in high stress environments, short turn machined samples, prototype assembly process, endcapping with silane deposition, technical screen-printing
 
 ## Photos
-![](IMG_2271.JPEG)
+![](IMG_2271b.JPEG)
 *Fig. 1: I developed a laser ablation method to subtractively manufacture electrode patterns on silkscreened gold, thick film substrates. We also made full circuit layouts using this method.*
 
-![](corona.jpg)
+![](corona3.jpg)
 *Fig. 2: Reflection of me in front of a plasma cleaner (corona treatment), many hours were spent here dialing in the process. Plasma cleaner used to prepare glass surface for silane deposition, amongst other needs that required increase surface energy.*
 
 ![](IMG_2308.JPEG)

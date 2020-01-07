@@ -13,7 +13,7 @@ TapWorks was a project conceived when my friend Erik Modahl of [beantrust.](http
 Currently, there are tap handles in use to monitor the kegs at Mass CIC. Still in the data gathering phase, we have developed an auto-emailing system that notifies keg owners when to refill. The data and notifications generated enable low-volume Cold-brew and Kombucha brewers to operate in a lean, people and quality centric mode of operation.
 
 ## Photos
-![](prototype.jpeg)
+![](prototype.JPEG)
 *Fig. 1: Initial prototype*
 
 ![](IMG_3957.JPEG)

@@ -4,7 +4,7 @@ categories: ['sensata']
 ---
 ## Summary
 
-Every year at Sensata, I presented on significant technical accomplishments or interesting developments I worked on. Here is a summary.
+Every year at Sensata, I presented on significant technical accomplishments or interesting developments I worked on. Here are a few of the posters I presented on.
 
 
 ## Photos

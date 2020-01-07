@@ -1,7 +1,7 @@
 ---
-title: Biobot Dry Lab, a makerspace for interdisciplinary creation
+title: Biobot Dry Lab, a makerspace for biologists, chemists and engineers
 categories: ['biobot']
-featuredImage: './IMG_3023_2.JPEG'
+featuredImage: './blueprint2.JPEG'
 featured: true
 ---
 `youtube: kiwuKKv6gzc`

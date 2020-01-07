@@ -3,6 +3,8 @@ import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 import { css } from 'emotion';
 
+import style from '../styles/featured';
+
 // a masonry-style grid of featured posts
 
 const Featured = props => {
@@ -52,7 +54,7 @@ const Featured = props => {
             return (
               <div
                 css={css`
-                  margin: 5px;
+                  margin: 10px;
                   flex: 0 1;
                   position: relative;
                 `}
@@ -70,12 +72,13 @@ const Featured = props => {
                     css={css`
                       max-width: 100%;
                       border-radius: 10px;
-                      width: 350px;
+                      width: 300px;
                       box-shadow: -2px 2px 8px 1px rgba(0, 0, 0, .3);
                       height: 300px;
 
                       &:hover {
                          transform: scale(.9);
+                         color: var(--linkColor);
 
                        }
                     `}
