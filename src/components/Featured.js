@@ -52,7 +52,7 @@ const Featured = props => {
             return (
               <div
                 css={css`
-                  margin: 10px;
+                  margin: 5px;
                   flex: 0 1;
                   position: relative;
                 `}
@@ -70,14 +70,11 @@ const Featured = props => {
                     css={css`
                       max-width: 100%;
                       border-radius: 10px;
-                      width: 300px;
+                      width: 350px;
                       box-shadow: -2px 2px 8px 1px rgba(0, 0, 0, .3);
                       height: 300px;
-
                       &:hover {
                          transform: scale(.9);
-                         color: var(--linkColor);
-
                        }
                     `}
                   />
@@ -96,7 +93,6 @@ const Featured = props => {
                       white-space: nowrap;
                       border-bottom-right-radius: 3px;
                       border-bottom-left-radius: 3px;
-
                       &:hover {
                         color: var(--hoverLinkColor);
                       }
