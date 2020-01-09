@@ -2,7 +2,7 @@
 title: Autonomous vehicle sensor development
 categories: ['sensata']
 featuredImage: './corona3.jpg'
-featured: false
+featured: true
 ---
 #### Title
 Mechanical Design Engineer > Lead Process Design Engineer, Advanced Technologies
