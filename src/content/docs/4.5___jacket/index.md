@@ -1,7 +1,7 @@
 ---
 title: Jacket that pulses with breathing
 categories: ['projects']
-featured: false
+featured: true
 featuredImage: './jacket.jpg'
 ---
 ![](riding.gif)
