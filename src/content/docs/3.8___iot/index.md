@@ -4,6 +4,9 @@ categories: ['biobot']
 featured: true
 featuredImage: './box.jpg'
 ---
+
+![](box.jpg)
+
 `youtube: n7Q2LO8Xu4A`
 
 *Rob KillKelley demonstratin  g wireless communication to sampling device*
