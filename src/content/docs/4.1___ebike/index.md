@@ -30,5 +30,5 @@ Acceleration: Doesn't Matter.
 ![](IMG_2110.JPEG)
 *Fig. 4: Custom spacers were turned on the lathe to get proper chain alignment on a 7-speed freewheel hub that I converted to a single speed freewheel.*
 
-![](IMG_4740C.JPEG)
+![](IMG_4740C.jpeg)
 *Fig. 5: Completed bicycle after test ride*
