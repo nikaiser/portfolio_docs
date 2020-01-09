@@ -4,6 +4,9 @@ categories: ['sensata']
 featuredImage: './corona3.jpg'
 featured: true
 ---
+
+![](sensata-ols-oil-level-sensor-image.jpg)
+
 #### Title
 Mechanical Design Engineer > Lead Process Design Engineer, Advanced Technologies
 
@@ -13,6 +16,9 @@ During my last year at Sensata I worked on new technology development, we were a
 
 ## Patent
 Filed, under NDA.
+
+## Datasheet
+[Oil Level Sensor](https://www.sensata.com/sites/default/files/a/sensata-ols-oil%20level%20sensor-datasheet.pdf)
 
 ## Skills
 
