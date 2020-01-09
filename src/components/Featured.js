@@ -3,8 +3,6 @@ import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 import { css } from 'emotion';
 
-import style from '../styles/featured';
-
 // a masonry-style grid of featured posts
 
 const Featured = props => {
