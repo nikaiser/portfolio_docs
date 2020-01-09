@@ -1,7 +1,7 @@
 ---
 title: TapWorks, my first company!
 categories: ['projects']
-featured: true
+featured: false
 featuredImage: './IMG_3941.JPEG'
 ---
 `youtube: JAJbTm7qbpI`
