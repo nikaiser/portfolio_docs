@@ -4,6 +4,8 @@ categories: ['projects']
 featured: true
 featuredImage: './BIKE2.jpg'
 ---
+![](BIKE2.jpg)
+
 `youtube: fR6uySCIAOo`
 
 *Demo of e-bike near Greentown Labs, super fun ride!*
