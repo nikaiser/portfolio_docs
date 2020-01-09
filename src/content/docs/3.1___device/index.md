@@ -4,7 +4,9 @@ categories: ['biobot']
 featuredImage: './box2.jpg'
 featured: true
 ---
----
+
+![](IMG_3012C.JPEG)
+
 #### Title
 Hardware Engineer
 
