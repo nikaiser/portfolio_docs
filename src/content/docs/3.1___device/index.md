@@ -2,7 +2,7 @@
 title: The 'Box', an electromechanical sampling instrument for biologists and chemists
 categories: ['biobot']
 featuredImage: './box2.jpg'
-featured: true
+featured: false
 ---
 ---
 #### Title
