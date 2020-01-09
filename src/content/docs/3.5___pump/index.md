@@ -2,6 +2,8 @@
 title: Development of a cheap, low flow pump
 categories: ['projects']
 ---
+![](IMG_4751.JPEG)
+
 `youtube: 9FMy7yocY9k`
 
 *3D printed Rev 7 pump housing running and pumping at 14ml/min*
