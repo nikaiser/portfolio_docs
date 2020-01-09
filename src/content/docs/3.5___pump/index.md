@@ -1,6 +1,8 @@
 ---
 title: Development of a cheap, low flow pump
 categories: ['projects']
+featured: true
+featuredImage: './IMG_4751.JPEG'
 ---
 ![](IMG_4751.JPEG)
 
