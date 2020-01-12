@@ -4,7 +4,7 @@ categories: ['projects']
 featured: true
 featuredImage: './BIKE2.jpg'
 ---
-![](BIKE2.jpg)
+![](ebike4.JPEG)
 
 `youtube: fR6uySCIAOo`
 
