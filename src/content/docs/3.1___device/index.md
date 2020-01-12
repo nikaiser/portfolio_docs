@@ -24,23 +24,14 @@ Filed, under NDA.
 project management, fluids, electromechanical assembly, IoT, cellular communication, battery management, prototype assembly, crimping, wiring, harness design, dc motor pumps, pressure evaluation, tubing and tubing routing, laser cutting, sheet metal design, CAD, box development, antenna evaluation
 
 ## Photos
-![](IMG_0853.JPEG)
+![](IMG_0853.jpg)
 *Fig. 1: Alpha1 revision unit internals, pegboard scraps from lab build used as backing plate. Electronics prototyped on protoboard.*
 
-![](IMG_1390.JPEG)
-*Fig. 2: Alpha2 revision unit showing additional chemical filters and flow sensor integration.*
+![](beta.jpg)
+*Fig. 2: Beta device with hand bent aluminum mounting plate, early style acrylic plate, and Samtec connectors on isolated electronics box*
 
-![](IMG_1735.JPEG)
-*Fig. 3: Beta device with hand bent aluminum mounting plate, early style acrylic plate, and Samtec connectors on isolated electronics box*
+![](gamma3.jpg)
+*Fig. 3: Gamma device in use, notable details in manufacturability since beta build: simplification of electronics box, revision of refreshment plate to aid in installation ease, manufacturer provided Al backing plate, simplified external diagnostics plate*
 
-![](IMG_1717.JPEG)
-*Fig. 4: Unbent aluminum plate back from waterjet*
-
-![](gamma.jpeg)
-*Fig. 5: Gamma device in use, notable details in manufacturability since beta build: simplification of electronics box, revision of refreshment plate to aid in installation ease, manufacturer provided Al backing plate, simplified external diagnostics plate*
-
-![](IMG_2605.JPEG)
-*Fig. 6: External diagnostics plate, gamma revision*
-
-![](IMG_2612.JPEG)
-*Fig. 7: Manual reflow of diagnostic PCB*
+![](collage.jpg)
+*Fig. 5: Assorted pictures of details, innovations, and build methods. Highlights: DIY reflow solder, laser etched spray paint faceplate, custom controls PCB designed around a Teensy 3.5, waterjet pump plate prior to handbending*
