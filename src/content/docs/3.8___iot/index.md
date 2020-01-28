@@ -2,15 +2,10 @@
 title: Subterranean cellular connected device
 categories: ['biobot']
 featured: true
-featuredImage: './box.jpg'
+featuredImage: './IMG_2692B.JPEG'
 ---
 
-![](box.jpg)
-
-`youtube: n7Q2LO8Xu4A`
-
-*Rob KillKelley demonstratin  g wireless communication to sampling device*
-
+![](IMG_2690.JPEG)
 
 #### Role
 Engineer
@@ -21,8 +16,8 @@ Directed and led team to develop a simple waterproof test box that enabled commu
 
 
 ## Photos
-![](IMG_2690.JPEG)
-*Fig. 1: A revision of the sample testing box with dual batteries, this box went through many revisions to determine ideal combination of wireless comms hardware*
+`youtube: n7Q2LO8Xu4A`
+*Fig. 1: Demonstration of wireless communication to gamma build unit. Gamma build unit was able to communicate from within a shut manhole using this permutation of hardware.*
 
 ![](IMG_2693.JPEG)
-*Fig. 2: Example of test condition: partial manhole coverings. Test conditions do not permit
+*Fig. 2: Example test condition: partial manhole coverings. Full coverage, partial coverage, and various depths were trialed.*
