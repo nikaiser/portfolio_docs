@@ -1,10 +1,10 @@
 ---
 title: Piezo-resistive Amplified High Speed Pressure Cycler
 categories: ['sensata']
-featuredImage: './closeup2.jpeg'
+featuredImage: './HighSpeedHydraulic.jpg'
 featured: true
 ---
-![](diagram.JPEG)
+![](HighSpeedHydraulic.jpg)
 
 ## Summary
 
@@ -19,3 +19,6 @@ As an expansion, I was able to run mechanical resonant frequency analysis using 
 
 ![](closeup2.jpeg)
 *Fig. 2: Close-up of the pressure cycler interface, a 120um displacement stack of ceramic piezoactuators was used to mechanically actuate a piston, displacement induced by 10kV amplitude sine wave. The piston would repeatedly compress a small volume of fluid which the pressure sensor under test and the Kistler reference pressure would simultaneously measure.*
+
+![](Spline1000.jpg)
+*Fig. 3: Following the poster session, I spent time conducting additional testing to gather enough data to normalize the sensor outputs. Each dot on this plot represents a discrete sampling at a particular frequency. A Fast Fourier Transform is conducted on each subset of data at every frequency tested, and the aggregate of every transform is plotted here using a MATLAB script. The digital filtering (Low Pass Filter emulation) built into the ASIC of the Gen4 sensor dampens response compared to the Gen3 ASIC that does not have this feature.*
