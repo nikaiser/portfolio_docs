@@ -1,5 +1,5 @@
 ---
-title: TapWorks, my first company!
+title: TapWorks!
 categories: ['projects']
 featured: false
 featuredImage: './IMG_3941.JPEG'
