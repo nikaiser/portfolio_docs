@@ -2,6 +2,6 @@
 name: hero
 ---
 
-Thinker, Dreamer, Eater
+Mechanical Engineer
 
 [Portfolio](./content)
