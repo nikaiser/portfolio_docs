@@ -3,16 +3,16 @@ import { injectGlobal } from 'emotion';
 
 const variables = injectGlobal`
   :root {
-    --firstActiveColor: #d00;
-    --secondActiveColor: orange;
+    --firstActiveColor: #0f4c81;
+    --secondActiveColor: #0f817d;
     --superLightGray: #ccc;
 
     --textColor: #555;
     --lightTextColor:  #777;
     --superLightTextColor:  #aaa;
 
-    --linkColor: #a00;
-    --hoverLinkColor: #d00;
+    --linkColor: #0f1381;
+    --hoverLinkColor: #0f4c81;
 
     --scrollBarThumb: #eaeaea;
     --scrollBarTrack: #f9f9f9;
