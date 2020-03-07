@@ -15,7 +15,7 @@ const menu = css`
   ${mq({
     justifyContent: ['center', 'flex-end'],
     position: ['fixed', 'relative'],
-    bottom: [0, 'auto'],
+    bottom: [10, 'auto'],
     width: ['100%', 'auto'],
     left: [0, 'auto'],
     borderTop: ['1px solid #ddd', 'none'],
@@ -24,7 +24,7 @@ const menu = css`
   & ul {
     list-style: none;
     display: flex;
-    height: 44px;
+    height: 50px;
     justify-content: center;
   }
 
@@ -37,7 +37,7 @@ const menu = css`
       height: 100%;
       justify-content: center;
       align-items: center;
-      margin: 0 5px;
+      margin: 0px 5px;
       color: var(--lightTextColor);
       position: relative;
 
