@@ -1,6 +1,6 @@
 ---
 title: Passive sampler alternative to 'box'
-categories: ['biobot']
+categories: ['first']
 ---
 `youtube: oLlYg-b9A_Q`
 

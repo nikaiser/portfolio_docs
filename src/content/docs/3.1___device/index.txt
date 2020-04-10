@@ -1,9 +1,11 @@
 ---
 title: The 'Box', an electromechanical sampling instrument for biologists and chemists
 categories: ['biobot']
-featuredImage: './IMG_0853.jpg'
+featuredImage: './box2.jpg'
 featured: true
 ---
+
+![](IMG_3012C.JPEG)
 
 #### Title
 Hardware Engineer
@@ -23,7 +25,13 @@ project management, fluids, electromechanical assembly, IoT, cellular communicat
 
 ## Photos
 ![](IMG_0853.jpg)
-*Fig. 1: An early prototype, pegboard scraps from lab build used as backing plate. Electronics prototyped on protoboard.*
+*Fig. 1: Alpha1 revision unit internals, pegboard scraps from lab build used as backing plate. Electronics prototyped on protoboard.*
+
+![](beta.jpg)
+*Fig. 2: Beta device with hand bent aluminum mounting plate, early style acrylic plate, and Samtec connectors on isolated electronics box*
+
+![](gamma3.jpg)
+*Fig. 3: Gamma device in use, notable details in manufacturability since beta build: simplification of electronics box, revision of refreshment plate to aid in installation ease, manufacturer provided Al backing plate, simplified external diagnostics plate*
 
 ![](collage.jpg)
-*Fig. 2: Assorted pictures of details, innovations, and build methods. Highlights: DIY reflow solder, laser etched spray paint faceplate, custom controls PCB designed around a Teensy 3.5, waterjet pump plate prior to handbending*
+*Fig. 5: Assorted pictures of details, innovations, and build methods. Highlights: DIY reflow solder, laser etched spray paint faceplate, custom controls PCB designed around a Teensy 3.5, waterjet pump plate prior to handbending*

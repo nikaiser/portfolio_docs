@@ -3,12 +3,13 @@
   "description": "A set of starters for Gatsby.js v.2",
   "license": "MIT",
   "scripts": {
-    "develop": "gatsby develop",
+    "develop": "npm run clean && gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
     "test": "jest --coverage",
     "test:watch": "jest --watch",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "clean": "gatsby clean"
   },
   "dependencies": {
     "@react-website-themes/classy-docs": "^0.0.20",
