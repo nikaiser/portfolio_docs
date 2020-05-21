@@ -1,7 +1,7 @@
 ---
 title: Piezo-resistive Amplified High Speed Pressure Cycler
 categories: ['sensata']
-featuredImage: './HighSpeedHydraulic.jpg'
+featuredImage: './closeup2.jpeg'
 featured: true
 ---
 ![](HighSpeedHydraulic.jpg)
