@@ -1,5 +1,5 @@
 ---
-title: Covid: Autoclave Shield
+title: Covid Autoclave Shield
 categories: ['projects']
 featured: true
 featuredImage: './ppe-production-3.jpg'
