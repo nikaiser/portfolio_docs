@@ -1,6 +1,6 @@
 ---
 title: Covid swab
-categories: ['projects & consulting']
+categories: ['engine']
 featured: false
 featuredImage: './swab.jpg'
 ---

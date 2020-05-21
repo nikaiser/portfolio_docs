@@ -2,7 +2,6 @@
 title: Giant robotic arm for autonomous trucks
 categories: ['engine']
 featured: false
-featuredImage: './jacket.jpg'
 ---
 ![](remote.jpg)
 
