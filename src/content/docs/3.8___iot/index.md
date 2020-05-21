@@ -1,7 +1,7 @@
 ---
 title: Subterranean cellular connected device
 categories: ['biobot']
-featured: true
+featured: false
 featuredImage: './IMG_2692B.JPEG'
 ---
 

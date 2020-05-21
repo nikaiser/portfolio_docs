@@ -1,7 +1,7 @@
 ---
 title: Not your typical Electrified Bicycle
 categories: ['projects']
-featured: true
+featured: false
 featuredImage: './BIKE2.jpg'
 ---
 ![](ebike4.JPEG)
