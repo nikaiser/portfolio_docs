@@ -1,5 +1,5 @@
 ---
-title: Stealth electric city bike
+title: Stealthy electric city bike
 categories: ['projects']
 featured: false
 featuredImage: './BIKE2.jpg'
@@ -14,7 +14,7 @@ featuredImage: './BIKE2.jpg'
 
 As any good MechE would do, I built myself an e-bike. But instead of sticking with the classic mainstays of cheap, unused bike with an assortment of electrical fixtures. I pursued a stealth build that required a bit of custom fabrication to get just right. The bike uses a small 16s1p, 60V nominal, 3Ah LiPo battery pack, an Infineon controller with the MOSFETs replaced with authentic [IRFB4110s](https://www.infineon.com/dgdl/irfb4110pbf.pdf?fileId=5546d462533600a401535615a9571e0b), and a Cycle Analyst V2 computer. Assuming a generous engineering safety factor, I limited peak power to 1500w (25A@60V), nothing has melted yet. The design was unconventionally optimized for high voltage but, relative to most high power Electrified bicycle designs, low current draw due to the limitation that the motor expects only 10A continuous.
 
-*Parameters | Value*
+Parameters | Value
 ------------ | ------------
 Max Speed | 25MPH
 Distance | 7mi

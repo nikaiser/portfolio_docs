@@ -10,7 +10,7 @@ featuredImage: './r2_headlight.jpg'
 
 A work in progress, this is my antique motor-bicycle, built sometime between 1917-1922. The bicycle was purchased without wheels, yet came with a skip tooth chain with odd-sized pitch. I added custom wheels, a direct drive rear hub from ebikekit and a Sturmey-Archer front drum brake, built a front brake sensor out of a hard drive magnet and a hall effect sensor, used old batteries from Biobot, and various other parts I had lying around.
 
-*Parameters | Value*
+Parameters | Value
 ------------ | ------------
 Max Speed | 28MPH
 Distance | 6mi
