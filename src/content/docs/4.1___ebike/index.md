@@ -21,6 +21,14 @@ Acceleration: 0-25MPH, 10s, with pedaling
 Max Current: 18A
 Max Voltage 66V
 
+*Parameters | Value*
+------------ | ------------
+Max Speed | 25MPH
+Distance | 7mi
+Acceleration | 0-25MPH, 10s with pedaling
+Max Current | 18A
+Max Voltage | 66V
+
 ## Photos
 ![](IMG_2064.JPEG)
 *Fig. 1: Custom wheel built to house the smallest hub motor available on the market, rated for 350w.*
