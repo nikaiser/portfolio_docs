@@ -2,7 +2,7 @@
 title: Flopper the Frog, novel use of foamed silicones for a children's toy
 categories: ['cornell']
 featuredImage: './img2.jpg'
-featured: true
+featured: false
 ---
 #### Teammates:
 [Alex Krolick](https://alexkrolick.com/), Sam Daly
