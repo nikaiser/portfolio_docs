@@ -12,7 +12,6 @@ E25bio asked me to design a field use pressure concentrator for protein concentr
 
 ## Photos
 ![](solidmodel.png)
-
 *Fig. 1: Revision2 in development.*
 
 ![](assembled.jpeg)

@@ -1,7 +1,7 @@
 ---
 title: Stealthy electric city bike
 categories: ['projects']
-featured: false
+featured: true
 featuredImage: './BIKE2.jpg'
 ---
 ![](ebike4.JPEG)
