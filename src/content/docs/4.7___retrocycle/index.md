@@ -4,7 +4,7 @@ categories: ['projects']
 featured: true
 featuredImage: './r2_headlight.jpg'
 ---
-![](r2_outside.jpg)
+![](r2_inside2.jpg)
 
 ## Summary
 
