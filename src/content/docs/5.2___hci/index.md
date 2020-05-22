@@ -15,7 +15,7 @@ To address driver safety needs, a pressure sensitive pedal was added to the truc
 
 *Fig. 1: FSR needed to detect a force of up to 32lbs and the Schmitt Trigger was set to an equivalent resistance of 2lbs.*
 
-![](cloeup.JPEG)
+![](closeup.JPEG)
 *Fig. 2: Circuit layout with adjustable trigger point.*
 
 ![](pedal2.jpg)

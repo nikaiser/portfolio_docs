@@ -9,7 +9,7 @@ featuredImage: './shield.jpg'
 ## Summary
 In early March 2020, I elected to design a highly reusable yet easy to make frame based shield design for the covid pandemic. The constraints I set included no folds or creases in the plastic, and a design that could be autoclaved. The frame is made from polypropylene, the visor from polycarbonate, and the comfort strip from silicone. Only the elastic is disposable, but depending on head shape - the elastic needs to be chosen with appropriate tension.
 
-On April 30, the design received *NIH approval* for medical use during pandemic use under the FDA EUA guidelines for rapidly manufactured PPE.
+On April 30, 2020, the design received *NIH approval* for medical use during the pandemic under the FDA EUA guidelines for rapidly manufactured PPE.
 
 During the month of April and May we built thousands of these shields.
 
