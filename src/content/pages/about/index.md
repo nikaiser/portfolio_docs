@@ -4,6 +4,7 @@ categories: ['main']
 ---
 
 ![](dremel.jpeg)
+*Pictured, me, with Dremel.*
 
 ### General
 
