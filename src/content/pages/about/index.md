@@ -3,7 +3,7 @@ title: About
 categories: ['main']
 ---
 
-![](looking.jpeg)
+![](dremel.jpeg)
 
 ### General
 
