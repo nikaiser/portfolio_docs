@@ -4,7 +4,6 @@ categories: ['projects']
 featured: false
 featuredImage: './IMG_3941.JPEG'
 ---
-`youtube: JAJbTm7qbpI`
 
 ## Summary
 
