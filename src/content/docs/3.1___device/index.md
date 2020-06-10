@@ -15,7 +15,7 @@ Over my 10 months in Biobot the focus on my work was a pumping instrument that p
 All data published with permission from Biobot Analytics.
 
 ## Patent
-Filed, under NDA.
+[Modular system for upstream wastewater sampling](https://patents.google.com/patent/US20200072709A1/en?inventor=Nikhil+B.+Lal)
 
 ## Skills
 

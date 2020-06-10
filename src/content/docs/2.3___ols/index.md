@@ -12,10 +12,10 @@ Mechanical Design Engineer > Lead Process Design Engineer, Advanced Technologies
 
 ## Summary
 
-During my last year at Sensata I worked on new technology development, we were assigned the mission of finding novel sensing tech, building the tech into working prototypes, and demoing the sensors for Ford, GM, and Chrysler that were needed for the use cases dictated by autonomous vehicles. My responsibilities primarily surrounded package development, sensor design and manufacture for these products, and ensuring that the unique challenges posed by the technology can be solved in full scale production.
+During my last year at Sensata I worked on new technology development, we were assigned the mission of finding novel sensing tech, building the tech into working prototypes, and demoing the sensors for Ford, GM, and Chrysler  use cases dictated by autonomous vehicles. My responsibilities primarily surrounded package development, sensor design and manufacture for these products, and ensuring that the unique challenges posed by the technology can be solved in full scale production.
 
 ## Patent
-Filed, under NDA.
+[Fluid level sensor apparatus with inter-digitated planr capacitors for directly inserting into a fluid](https://patents.google.com/patent/US20200072651A1/en?inventor=nikhil+b+lal&oq=nikhil+b+lal)
 
 ## Datasheet
 [Oil Level Sensor](https://www.sensata.com/sites/default/files/a/sensata-ols-oil%20level%20sensor-datasheet.pdf)
