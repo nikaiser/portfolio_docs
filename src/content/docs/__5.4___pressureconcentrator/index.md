@@ -1,7 +1,7 @@
 ---
 title: Novel field protein concentrator
-categories: ['engine']
-featured: true
+categories: ['first']
+featured: false
 featuredImage: './assembled.jpeg'
 ---
 ![](disassembled.jpeg)
