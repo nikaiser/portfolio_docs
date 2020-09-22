@@ -8,13 +8,13 @@ categories: ['main']
 
 ### General
 
-A consummate engineer, I have always enthusiastically pursued science and research from a young age. I am passionate about mechanical design and continuously look for innovative solutions to modern problems. Never one to stop learning, when I’m not working, I devour industry-level research on macro trends but leave time to hang out with friends, and spend as much time as I can outdoors. Experienced, mechanical-focused hardware engineer, with an emphasis on prototyping hardware and motivating and leading small teams to develop significant projects. Substantial experience in overseas customer and supplier management, and conversant in French. Awarded 1 patent, and have filed for 2 additional patents since in 3 different fields.
+A consummate engineer, I have always enthusiastically pursued science and research from a young age. I am passionate about mechanical design and continuously look for innovative solutions to modern problems. Never one to stop learning, when I’m not working, I study industry-level research on macro trends but leave time to hang out with friends, and spend as much time as I can outdoors. Experienced, mechanical-focused hardware engineer, with an emphasis on prototyping hardware and motivating and leading small teams to develop significant projects. Substantial experience in overseas customer and supplier management, and conversant in French. Awarded 1 patent, and have filed for 4 additional patents since in 4 different fields.
 
-### [Resume](Resume.pdf)
+### [Curriculum Vitae](cv.pdf)
 
 ### Background
 
-Born in Maryland, I followed my parents around the world as my mother served the US Department of State as a diplomat and my father an entrepreneur. Spending time in Africa, Asia, and Europe - I've never truly known where to call home, but I do have a strong appreciation for other people and their cultures. Having visited 58 countries, I feel enormously grateful to have had such a holistic upbringing. Earliest achievements I am the most proud of: making the rank of Eagle Scout despite scouting in 4 different countries, International Award Bronze and Silver level, and participating in THIMUN 3 times.
+Born in Maryland, I followed my parents around the world as my mother served the US Department of State as a diplomat and my father an entrepreneur. Spending time in Africa, Asia, and Europe - I've never truly known where to call home, but I do have a strong appreciation for other people and their cultures. Having visited 60 countries, I feel enormously grateful to have had such a holistic upbringing. Earliest achievements I am the most proud of: making the rank of Eagle Scout despite scouting in 4 different countries, International Award Bronze and Silver level, and participating in THIMUN 3 times.
 
 ![](eagle.jpeg)
 *Eagle Scout Court of Honor (Troop 236, US Embassy, Rome, Italy)*
@@ -38,7 +38,7 @@ I spend as much time as I can outside. Hiking, climbing, mountain biking, and sn
 Somewhere on Cannon Mountain, NH.*
 
 *![](hike.jpg)
-Near the summit of the Schwarzhorn (Bernese Oberland, Swiss Alps) A rather challenging hike with 6678ft of elevation change in 1 day, soloed mix of hiking, scrambling, and climbing.*
+Near the summit of the Schwarzhorn (Bernese Oberland, Swiss Alps)*
 
 ### Hobbies
 
